@@ -1,2 +1,2 @@
 # threatFeeds
-OpenCTI.BR ThreatFeeds Public Repository OI
+OpenCTI.BR ThreatFeeds Public Repository
