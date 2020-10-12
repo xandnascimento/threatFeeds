@@ -414,3 +414,8 @@ domain|Subject Alternative Name|Certificate SerialNumber
 "www.vivo.foreverlife.com.ar"|"DNS:vivo.foreverlife.com.ar, DNS:www.vivo.foreverlife.com.ar"|"36:fc:70:4b:69:26:5d:1b:68:cd:92:39:a5:22:09:ea"
 "www.vivo.samehadaku.co.id"|""|""
 "www.vizcaya.seguros-generales.es"|"DNS:vizcaya.seguros-generales.es, DNS:www.vizcaya.seguros-generales.es"|"05:16:95:7b:4e:2b:bd:d7:da:3c:98:da:52:51:ca:8f"
+"www.ww41.caixa.aplicativo.ltd"|""|""
+"www.zamora.seguros-generales.es"|"DNS:zamora.seguros-generales.es, DNS:www.zamora.seguros-generales.es"|"e1:48:47:eb:02:b5:07:47:36:0d:40:45:98:87:99:96"
+"www.zaragoza.seguros-generales.es"|"DNS:zaragoza.seguros-generales.es, DNS:www.zaragoza.seguros-generales.es"|"d6:d9:9f:89:e2:2d:b9:6f:76:2c:03:4c:23:3f:46:44"
+"zamora.seguros-generales.es"|"DNS:zamora.seguros-generales.es, DNS:www.zamora.seguros-generales.es"|"e1:48:47:eb:02:b5:07:47:36:0d:40:45:98:87:99:96"
+"zaragoza.seguros-generales.es"|"DNS:zaragoza.seguros-generales.es, DNS:www.zaragoza.seguros-generales.es"|"d6:d9:9f:89:e2:2d:b9:6f:76:2c:03:4c:23:3f:46:44"
