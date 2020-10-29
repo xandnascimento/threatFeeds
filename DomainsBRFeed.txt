@@ -1,3 +1,5 @@
+"https://totallymart.com/bootstrap/cache/cnpostmaster/china/index.php?login=berneck@berneck.com.br","OpenPhish url list feed","2020-10-29 01:55:08"
+"https://totallymart.com/bootstrap/cache/cnpostmaster/china/index.php?login=arthur@berneck.com.br","OpenPhish url list feed","2020-10-29 01:55:08"
 "www.portal.seguros.vivo.whitelabel.com.br","CertStream feed","2020-10-28 02:55:02"
 "www.portal.seguros.vivo-homol.whitelabel.com.br","CertStream feed","2020-10-28 02:55:02"
 "mail.notafiscal.ccbgestao.com.br","CertStream feed","2020-10-28 02:55:02"
@@ -183,6 +185,7 @@
 "www.validacao-rs-santacruzdosul-camara.ad.sistemalegislativo.com.br","PhishingToday feed","2020-10-28 02:50:31"
 "www.cadastro.dnnarq.com.br","PhishingToday feed","2020-10-28 02:50:31"
 "www.bredaservicos.com.br","PhishingToday feed","2020-10-28 02:50:27"
+"retirenaloja.sisenor.com.br","DigitalSide Malware report: MD5: 3c784af8b7f075252d8b010ce3baba6e","2020-10-27 17:46:41"
 "www.auto-atendimento.genialtec.com.br","CertStream feed","2020-10-27 02:55:03"
 "www.atualizacao.sga.mcr.pr.gov.br","CertStream feed","2020-10-27 02:55:03"
 "cpanel.boleto.sincopar.org.br","CertStream feed","2020-10-27 02:55:02"
