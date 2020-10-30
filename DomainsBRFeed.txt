@@ -1,3 +1,4 @@
+"nutricaorenal.com.br","DigitalSide Malware report: MD5: be22307a0fef7b0fddc4793e746e5389","2020-10-29 16:11:56"
 "https://totallymart.com/bootstrap/cache/cnpostmaster/china/index.php?login=berneck@berneck.com.br","PhishScore feed","2020-10-29 03:00:14"
 "https://totallymart.com/bootstrap/cache/cnpostmaster/china/index.php?login=arthur@berneck.com.br","PhishScore feed","2020-10-29 03:00:14"
 "www.coronavirus.guararema.sp.gov.br","CertStream feed","2020-10-29 02:55:02"
