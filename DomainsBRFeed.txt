@@ -1,3 +1,4 @@
+"agenciainfluenciar.com.br","DigitalSide Malware report: MD5: 9560ec87ea9f364aeab7b197ef39b50c","2020-10-30 03:35:57"
 "www.coronavirus.guararema.sp.gov.br","CertStream feed","2020-10-30 02:55:02"
 "www.atualiza.acerancharia.com.br","CertStream feed","2020-10-30 02:55:02"
 "www.atualiza.acerb.com.br","CertStream feed","2020-10-30 02:55:02"
@@ -183,6 +184,7 @@
 "ouro.api.caixa.leosoft.com.br","PhishingToday feed","2020-10-30 02:50:34"
 "www.promocao.sevenmoveisplan.com.br","PhishingToday feed","2020-10-30 02:50:34"
 "www.bredaservicos.com.br","PhishingToday feed","2020-10-30 02:50:30"
+"agenciainfluenciar.com.br","DigitalSide Malware report: MD5: fc08c53b50733cd43a2382029ba53257","2020-10-29 23:36:21"
 "nutricaorenal.com.br","DigitalSide Malware report: MD5: be22307a0fef7b0fddc4793e746e5389","2020-10-29 16:11:56"
 "https://totallymart.com/bootstrap/cache/cnpostmaster/china/index.php?login=berneck@berneck.com.br","PhishScore feed","2020-10-29 03:00:14"
 "https://totallymart.com/bootstrap/cache/cnpostmaster/china/index.php?login=arthur@berneck.com.br","PhishScore feed","2020-10-29 03:00:14"
@@ -1308,5 +1310,3 @@
 "cpanel.cadastro.grupomca.com.br","PhishingToday feed","2020-10-24 02:50:45"
 "cpcalendars.cadastro.grupomca.com.br","PhishingToday feed","2020-10-24 02:50:45"
 "www.bredaservicos.com.br","PhishingToday feed","2020-10-24 02:50:42"
-"proqualityodontologia.com.br","DigitalSide Malware report: MD5: 8e8aa31244948e0fca96dba37a015f7a","2020-10-23 16:26:05"
-"proqualityodontologia.com.br","DigitalSide Malware report: MD5: e93c57f0975c23a314f85142034e484b","2020-10-23 15:58:10"
