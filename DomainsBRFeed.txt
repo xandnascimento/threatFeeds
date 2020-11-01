@@ -558,8 +558,6 @@
 "www.leiloes-sc.com.br","PhishingToday feed","2020-10-29 02:50:35"
 "www.atendimento.fibrainternet.com.br","PhishingToday feed","2020-10-29 02:50:35"
 "www.bredaservicos.com.br","PhishingToday feed","2020-10-29 02:50:30"
-"https://totallymart.com/bootstrap/cache/cnpostmaster/china/index.php?login=berneck@berneck.com.br","OpenPhish url list feed","2020-10-29 01:55:08"
-"https://totallymart.com/bootstrap/cache/cnpostmaster/china/index.php?login=arthur@berneck.com.br","OpenPhish url list feed","2020-10-29 01:55:08"
 "www.portal.seguros.vivo.whitelabel.com.br","CertStream feed","2020-10-28 02:55:02"
 "www.portal.seguros.vivo-homol.whitelabel.com.br","CertStream feed","2020-10-28 02:55:02"
 "mail.notafiscal.ccbgestao.com.br","CertStream feed","2020-10-28 02:55:02"
