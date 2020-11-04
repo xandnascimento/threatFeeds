@@ -1298,4 +1298,3 @@
 "www.validacao-rs-santacruzdosul-camara.ad.sistemalegislativo.com.br","PhishingToday feed","2020-10-28 02:50:31"
 "www.cadastro.dnnarq.com.br","PhishingToday feed","2020-10-28 02:50:31"
 "www.bredaservicos.com.br","PhishingToday feed","2020-10-28 02:50:27"
-"retirenaloja.sisenor.com.br","DigitalSide Malware report: MD5: 3c784af8b7f075252d8b010ce3baba6e","2020-10-27 17:46:41"
