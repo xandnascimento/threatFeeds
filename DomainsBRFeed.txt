@@ -1294,5 +1294,3 @@
 "ouro.api.caixa.leosoft.com.br","PhishingToday feed","2020-10-30 02:50:34"
 "www.promocao.sevenmoveisplan.com.br","PhishingToday feed","2020-10-30 02:50:34"
 "www.bredaservicos.com.br","PhishingToday feed","2020-10-30 02:50:30"
-"agenciainfluenciar.com.br","DigitalSide Malware report: MD5: fc08c53b50733cd43a2382029ba53257","2020-10-29 23:36:21"
-"nutricaorenal.com.br","DigitalSide Malware report: MD5: be22307a0fef7b0fddc4793e746e5389","2020-10-29 16:11:56"
