@@ -183,6 +183,8 @@
 "www.boleto.sincopar.org.br","PhishingToday feed","2020-11-12 02:51:58"
 "www.atendimento.estanciaparaisoplay.com.br","PhishingToday feed","2020-11-12 02:51:58"
 "www.bredaservicos.com.br","PhishingToday feed","2020-11-12 02:51:44"
+"m3comunicacao.com.br","DigitalSide Malware report: MD5: cb19fe63b301713587e7bdddec6a50f7","2020-11-11 12:46:24"
+"projetoserhumano.org.br","DigitalSide Malware report: MD5: cb19fe63b301713587e7bdddec6a50f7","2020-11-11 12:38:33"
 "www.coronavirus.guararema.sp.gov.br","CertStream feed","2020-11-11 02:55:03"
 "www.atualiza.acerancharia.com.br","CertStream feed","2020-11-11 02:55:03"
 "www.atualiza.acerb.com.br","CertStream feed","2020-11-11 02:55:03"
