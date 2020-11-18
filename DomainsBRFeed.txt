@@ -183,6 +183,7 @@
 "www.acesso.solracsatrastreamento.com.br","PhishingToday feed","2020-11-17 02:53:48"
 "www.promocao.3pontozerofit.com.br","PhishingToday feed","2020-11-17 02:53:48"
 "www.bredaservicos.com.br","PhishingToday feed","2020-11-17 02:53:13"
+"agoralitoralnorte.com.br","DigitalSide Malware report: MD5: 3a9b6f3731229534f9010f0831d3bc30","2020-11-16 12:26:22"
 "auto-atendimento.genialtec.com.br","CertStream feed","2020-11-16 02:55:09"
 "www.auto-atendimento.genialtec.com.br","CertStream feed","2020-11-16 02:55:09"
 "www.atualizacao.sga.mcr.pr.gov.br","CertStream feed","2020-11-16 02:55:09"
