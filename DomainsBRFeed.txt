@@ -183,6 +183,7 @@
 "webmail.cadastro.grupomca.com.br","PhishingToday feed","2020-11-24 02:52:58"
 "www.cadastro.grupomca.com.br","PhishingToday feed","2020-11-24 02:52:58"
 "www.bredaservicos.com.br","PhishingToday feed","2020-11-24 02:52:38"
+"tecelagemsaogeraldo.com.br","DigitalSide Malware report: MD5: c966ec47c0480c3a6be2a1231a83c8a1","2020-11-23 13:11:13"
 "www.atualiza.aciac.org.br","CertStream feed","2020-11-23 02:55:03"
 "www.atualiza.aciaec.com.br","CertStream feed","2020-11-23 02:55:03"
 "www.atualiza.acij-jau.com.br","CertStream feed","2020-11-23 02:55:03"
