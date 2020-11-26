@@ -183,6 +183,8 @@
 "cpcalendars.boleto.sincopar.org.br","PhishingToday feed","2020-11-25 02:53:16"
 "cpcontacts.boleto.sincopar.org.br","PhishingToday feed","2020-11-25 02:53:16"
 "www.bredaservicos.com.br","PhishingToday feed","2020-11-25 02:52:56"
+"cadastrabrasil.com.br","DigitalSide Malware report: MD5: b7304a0ce5f2732a115d1cc850eab13c","2020-11-24 17:09:29"
+"capericias.com.br","DigitalSide Malware report: MD5: b7304a0ce5f2732a115d1cc850eab13c","2020-11-24 16:28:28"
 "www.validacao-rs-santacruzdosul-camara.ad.sistemalegislativo.com.br","CertStream feed","2020-11-24 02:55:03"
 "www.cadastro.dnnarq.com.br","CertStream feed","2020-11-24 02:55:03"
 "www.coronavirus.guararema.sp.gov.br","CertStream feed","2020-11-24 02:55:03"
