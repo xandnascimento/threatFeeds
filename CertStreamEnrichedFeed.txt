@@ -172,7 +172,7 @@ domain|Subject Alternative Name|Certificate SerialNumber
 "tricae-roupas-infantis-site-tricae-promocao-loja-roupas-bebe.com"|"DNS:tricae-roupas-infantis-site-tricae-promocao-loja-roupas-bebe.com"|"03:ff:b9:ec:b7:84:7a:2d:ad:79:63:12:3b:35:32:de:c1:24"
 "unimed-nne.com.br"|"DNS:unimed-nne.com.br, DNS:unimednne.com.br, DNS:www.unimed-nne.com.br, DNS:www.unimednne.com.br"|"03:6e:8d:62:31:3b:1b:76:fa:79:53:a3:f9:33:74:17:ea:99"
 "valencia.seguros-generales.es"|"DNS:valencia.seguros-generales.es, DNS:www.valencia.seguros-generales.es"|"7a:5c:92:32:ab:bf:78:75:fc:e5:88:3c:de:20:03:45"
-"view.vivo-themes.com"|"DNS:shareparis.jogjahost.com, DNS:mail.shareparis.jogjahost.com, DNS:www.shareparis.jogjahost.com"|"19:a6:d8:2c:86:cb:fa:59:8c:7b:cd:5b:47:f9:8f:8a"
+"view.vivo-themes.com"|""|""
 "virus-cleaning-advice.com"|"DNS:cpanel.nicpo.at, DNS:cpanel.virus-cleaning-advice.com, DNS:cpcalendars.nicpo.at, DNS:cpcalendars.virus-cleaning-advice.com, DNS:cpcontacts.nicpo.at, DNS:cpcontacts.virus-cleaning-advice.com, DNS:mail.nicpo.at, DNS:mail.virus-cleaning-advice.com, DNS:n0001.xetar.de, DNS:nicpo.at, DNS:s0052.xetar.de, DNS:virus-cleaning-advice.com, DNS:webdisk.nicpo.at, DNS:webdisk.virus-cleaning-advice.com, DNS:webmail.nicpo.at, DNS:webmail.virus-cleaning-advice.com, DNS:www.n0001.xetar.de, DNS:www.nicpo.at, DNS:www.s0052.xetar.de, DNS:www.virus-cleaning-advice.com"|"04:b4:77:42:72:2a:df:4a:06:2a:63:7b:4f:37:66:6b:13:12"
 "virus-control.co.uk"|"DNS:virus-control.co.uk, DNS:www.virus-control.co.uk"|"31:e2:07:b7:42:85:47:5f:2b:3a:0d:8d:83:3c:d4:fc"
 "virus-doctor.com"|"DNS:www.virus-doctor.com, DNS:virus-doctor.com"|"5b:2e:5d:c1:2d:62:b8:4c:20:50:dd:f1"
