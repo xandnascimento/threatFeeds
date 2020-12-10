@@ -183,6 +183,7 @@
 "cpanel.boleto.sincopar.org.br","PhishingToday feed","2020-12-09 02:54:22"
 "cpcalendars.boleto.sincopar.org.br","PhishingToday feed","2020-12-09 02:54:22"
 "www.bredaservicos.com.br","PhishingToday feed","2020-12-09 02:53:50"
+"excursoesdeinhamais.resultaweb.com.br","DigitalSide Malware report: MD5: f4ff765ab41db56376ba8ff3a9104140","2020-12-08 14:12:31"
 "www.boleto.aap.com.br","PhishingToday feed","2020-12-08 02:55:34"
 "www.atualiza.acinonovaodessa.com.br","PhishingToday feed","2020-12-08 02:55:34"
 "www.caixa.upwebedesign.com.br","PhishingToday feed","2020-12-08 02:55:34"
@@ -1294,4 +1295,3 @@
 "www.boleto.sincopar.org.br","CertStream feed","2020-12-03 02:55:02"
 "cpanel.boleto.sincopar.org.br","CertStream feed","2020-12-03 02:55:01"
 "cpcalendars.boleto.sincopar.org.br","CertStream feed","2020-12-03 02:55:01"
-"portalaspra.softdrive.com.br","DigitalSide Malware report: MD5: f603cb82d8d3c610967ef209cc79e208","2020-12-02 23:45:26"
