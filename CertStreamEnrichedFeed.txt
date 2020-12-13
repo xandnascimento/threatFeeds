@@ -32,7 +32,7 @@ domain|Subject Alternative Name|Certificate SerialNumber
 "bmg-formation.fr"|"DNS:cluster026.hosting.ovh.net, DNS:www.cluster026.hosting.ovh.net"|"f8:3e:2e:83:f8:12:dd:00:72:1e:68:01:89:fe:8e:64"
 "bmg-security.ch"|"DNS:bmg-security.ch"|"03:5d:88:30:b0:2d:45:51:57:e7:2a:d3:08:09:57:c5:a2:4b"
 "burgos.seguros-generales.es"|"DNS:burgos.seguros-generales.es, DNS:www.burgos.seguros-generales.es"|"bb:28:e5:a6:c7:c8:57:cb:b4:f4:91:72:51:c4:f8:5b"
-"buro-de-credito-gracias.quieromitarjetadecredito.com.mx"|"DNS:buro-de-credito-gracias.quieromitarjetadecredito.com.mx"|"03:39:4c:86:d3:1e:8d:96:30:56:77:43:ad:ed:5e:3e:bc:39"
+"buro-de-credito-gracias.quieromitarjetadecredito.com.mx"|"DNS:buro-de-credito-gracias.quieromitarjetadecredito.com.mx"|"03:2b:1d:41:3f:88:5f:e1:50:41:08:0e:c9:27:1d:57:40:3c"
 "caceres.seguros-generales.es"|"DNS:caceres.seguros-generales.es, DNS:www.caceres.seguros-generales.es"|"0c:17:06:e4:0a:62:5e:85:19:26:ec:1e:70:dd:0d:d3"
 "cadiz.seguros-generales.es"|"DNS:cadiz.seguros-generales.es, DNS:www.cadiz.seguros-generales.es"|"04:27:9f:14:90:5d:71:c2:b3:1d:de:7c:3a:3e:f0:e0"
 "cantabria.seguros-generales.es"|"DNS:cantabria.seguros-generales.es, DNS:www.cantabria.seguros-generales.es"|"75:60:d5:82:61:ca:67:26:09:95:e1:37:e6:b7:0a:84"
