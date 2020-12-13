@@ -213,6 +213,8 @@
 "accounting-information-services-clients-help.clinicalucianoschutz.com.br","PhishingToday feed","2020-12-12 02:54:02"
 "360arquitetura.com.br","PhishingToday feed","2020-12-12 02:53:25"
 "http://mail.drajinvasques.com.br","PhishingToday feed","2020-12-12 02:50:06"
+"myelementor.com.br","DigitalSide Malware report: MD5: 42b0d19f07977b80170aaffc9ab29fe6","2020-12-11 05:20:38"
+"myelementor.com.br","DigitalSide Malware report: MD5: 01f0f143db8ab41a5df9f096739ac144","2020-12-11 05:19:36"
 "http://lnterbank.pe.emersonmancini.com.br","PhishingToday feed","2020-12-11 02:56:53"
 "www.valeindependente.com.br","PhishingToday feed","2020-12-11 02:56:40"
 "www.veltec.com.br","PhishingToday feed","2020-12-11 02:56:40"
