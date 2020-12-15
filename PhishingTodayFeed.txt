@@ -18763,7 +18763,6 @@
 "ovatarim.com","domain"
 "overalldesign.ftpaccess.cc","hostname"
 "overallforge.com.au","hostname"
-"ow.ly","domain"
 "owlandfoxes.id","domain"
 "ozkemerviptaksi.com","domain"
 "p-instant.000webhostapp.com","hostname"
