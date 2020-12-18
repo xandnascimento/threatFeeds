@@ -10198,7 +10198,6 @@
 "manager.id-pp85044.lemncras.com","hostname"
 "managerecentfraudtransaction.com","domain"
 "manange-red-account.store","domain"
-"mandrillapp.com","domain"
 "mangan-sate-kadal.com","domain"
 "manlangit.com","domain"
 "manonfire.com.au","hostname"
