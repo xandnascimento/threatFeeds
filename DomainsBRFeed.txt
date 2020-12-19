@@ -1,3 +1,4 @@
+"http://f0497256.xsph.ru/wet2018/index.php?email=gerente.sc@medchap.com.br","OpenPhish url list feed","2020-12-19 01:55:41"
 "http://lnterbank.pe.emersonmancini.com.br","PhishingToday feed","2020-12-18 02:59:33"
 "www.valeindependente.com.br","PhishingToday feed","2020-12-18 02:59:24"
 "www.veltec.com.br","PhishingToday feed","2020-12-18 02:59:24"
@@ -213,6 +214,7 @@
 "accounting-information-services-clients-help.clinicalucianoschutz.com.br","PhishingToday feed","2020-12-18 02:54:20"
 "360arquitetura.com.br","PhishingToday feed","2020-12-18 02:53:51"
 "http://mail.drajinvasques.com.br","PhishingToday feed","2020-12-18 02:50:10"
+"tv5a.com.br","DigitalSide Malware report: MD5: 3c911f8b119efefcc18cf9b385940e72","2020-12-17 14:21:21"
 "http://lnterbank.pe.emersonmancini.com.br","PhishingToday feed","2020-12-17 03:19:01"
 "www.valeindependente.com.br","PhishingToday feed","2020-12-17 03:17:50"
 "www.veltec.com.br","PhishingToday feed","2020-12-17 03:17:50"
