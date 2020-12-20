@@ -213,7 +213,6 @@
 "accounting-information-services-clients-help.clinicalucianoschutz.com.br","PhishingToday feed","2020-12-19 02:53:50"
 "360arquitetura.com.br","PhishingToday feed","2020-12-19 02:53:27"
 "http://mail.drajinvasques.com.br","PhishingToday feed","2020-12-19 02:50:08"
-"http://f0497256.xsph.ru/wet2018/index.php?email=gerente.sc@medchap.com.br","OpenPhish url list feed","2020-12-19 01:55:41"
 "http://lnterbank.pe.emersonmancini.com.br","PhishingToday feed","2020-12-18 02:59:33"
 "www.valeindependente.com.br","PhishingToday feed","2020-12-18 02:59:24"
 "www.veltec.com.br","PhishingToday feed","2020-12-18 02:59:24"
