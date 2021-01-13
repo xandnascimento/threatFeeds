@@ -199,6 +199,7 @@
 "http://chase-verification.trskl.com.br","PhishingToday feed","2021-01-12 02:50:48"
 "http://acesso.seguro.cartaoes.santander.com.br.clipcom.com.br","PhishingToday feed","2021-01-12 02:50:16"
 "http://acessoseguro.itau.com.br.mbarquiteturabrandao.com.br","PhishingToday feed","2021-01-12 02:50:16"
+"helloprintcv.com.br","DigitalSide Malware report: MD5: ae994d2a6193a4e256aa86ce0b61175b","2021-01-11 13:32:54"
 "www.memorialpetroniopinheiro.com.br","PhishingToday feed","2021-01-11 02:57:02"
 "xocovid19.com.br","PhishingToday feed","2021-01-11 02:56:59"
 "www.todosprodutos.com.br","PhishingToday feed","2021-01-11 02:56:58"
