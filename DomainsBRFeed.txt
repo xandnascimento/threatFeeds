@@ -1367,5 +1367,3 @@
 "www.oferta.medsam.com.br","CertStream feed","2021-01-08 02:55:01"
 "http://mail.drajinvasques.com.br","PhishingToday feed","2021-01-08 02:50:04"
 "viajandobrasilafora.resultaweb.com.br","DigitalSide Malware report: MD5: eb477791471e3b4379f816cbf7bc7a56","2021-01-07 19:34:29"
-"tocakids.resultaweb.com.br","DigitalSide Malware report: MD5: eb477791471e3b4379f816cbf7bc7a56","2021-01-07 06:42:58"
-"brasiltripstour.resultaweb.com.br","DigitalSide Malware report: MD5: eb477791471e3b4379f816cbf7bc7a56","2021-01-07 05:59:13"
