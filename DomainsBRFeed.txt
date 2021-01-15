@@ -1,3 +1,4 @@
+"https://ssoportais.caixaresidencial.com.br/openam/XUI/?realm=TOKIOLFR&goto=http://portalparceiros.caixaresidencial.com.br","OpenPhish url list feed","2021-01-15 01:55:34"
 "www.atualiza.aciav.com.br","CertStream feed","2021-01-14 02:55:04"
 "www.atendimento.arativo.com.br","CertStream feed","2021-01-14 02:55:04"
 "www.cadastro.aptaapp.com.br","CertStream feed","2021-01-14 02:55:04"
@@ -1366,4 +1367,3 @@
 "www.vivo.rapidoreversa.com.br","CertStream feed","2021-01-08 02:55:01"
 "www.oferta.medsam.com.br","CertStream feed","2021-01-08 02:55:01"
 "http://mail.drajinvasques.com.br","PhishingToday feed","2021-01-08 02:50:04"
-"viajandobrasilafora.resultaweb.com.br","DigitalSide Malware report: MD5: eb477791471e3b4379f816cbf7bc7a56","2021-01-07 19:34:29"
