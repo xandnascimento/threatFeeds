@@ -187,7 +187,6 @@
 "area53.com.br","PhishingToday feed","2021-01-15 02:51:06"
 "anbf.adv.br","PhishingToday feed","2021-01-15 02:51:05"
 "algotextil.com.br","PhishingToday feed","2021-01-15 02:51:04"
-"https://ssoportais.caixaresidencial.com.br/openam/XUI/?realm=TOKIOLFR&goto=http://portalparceiros.caixaresidencial.com.br","OpenPhish url list feed","2021-01-15 01:55:34"
 "www.atualiza.aciav.com.br","CertStream feed","2021-01-14 02:55:04"
 "www.atendimento.arativo.com.br","CertStream feed","2021-01-14 02:55:04"
 "www.cadastro.aptaapp.com.br","CertStream feed","2021-01-14 02:55:04"
