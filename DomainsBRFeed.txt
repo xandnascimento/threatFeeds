@@ -1,3 +1,4 @@
+"http://f0497256.xsph.ru/wet2018/index.php?email=gerente.sc@medchap.com.br","OpenPhish url list feed","2021-01-17 01:55:45"
 "www.agsitesreis.com.br","PhishingToday feed","2021-01-16 04:31:13"
 "fm.registrobarretos.com.br","PhishingToday feed","2021-01-16 04:31:11"
 "capilart.com.br","PhishingToday feed","2021-01-16 04:31:10"
