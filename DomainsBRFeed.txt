@@ -198,7 +198,6 @@
 "41imoveis.com.br","PhishingToday feed","2021-01-31 02:50:46"
 "http://creatv.fr/images/social/netflix@com.br","PhishingToday feed","2021-01-31 02:50:31"
 "http://service.acount.missing.watersun.com.br","PhishingToday feed","2021-01-31 02:50:08"
-"http://f0497256.xsph.ru/wet2018/index.php?email=gerente.sc@medchap.com.br","OpenPhish url list feed","2021-01-31 01:56:31"
 "http://creatv.fr/images/social/netflix@com.br","PhishScore feed","2021-01-30 03:01:18"
 "www.leilao.aixsports.com.br","CertStream feed","2021-01-30 02:55:23"
 "www.cadastro.verdevidaplus.com.br","CertStream feed","2021-01-30 02:55:23"
