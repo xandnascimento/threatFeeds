@@ -6012,5 +6012,3 @@
 "vivitour.resultaweb.com.br","DigitalSide Malware report: MD5: eb477791471e3b4379f816cbf7bc7a56","2021-01-06 17:34:11"
 "familiamk.resultaweb.com.br","DigitalSide Malware report: MD5: eb477791471e3b4379f816cbf7bc7a56","2021-01-06 17:04:36"
 "comunicacaovertical.com.br","DigitalSide Malware report: MD5: 0b9e7136cac4ff870dac00ffc39add76","2021-01-05 09:47:35"
-"greensync.com.br","DigitalSide Malware report: MD5: e5f0c295de6348df877be6ba85c7dae1","2021-01-04 20:46:42"
-"assecon.com.br","DigitalSide Malware report: MD5: 2d888de3121e6ac37ca2912539b70e56","2021-01-04 20:45:40"
