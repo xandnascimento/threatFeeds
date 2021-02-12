@@ -1,3 +1,4 @@
+"pari2.jlddecora.com.br","DigitalSide Malware report: MD5: dc0034ec0c1c3c74e3396a8313ebde01","2021-02-11 03:43:11"
 "cartaodigitalinterativo.net.br","CertStream feed","2021-02-11 02:55:02"
 "www.cartaodigitalinterativo.net.br","CertStream feed","2021-02-11 02:55:02"
 "elitedocorpo.com.sejadigitalinterativo.com.br","CertStream feed","2021-02-11 02:55:02"
@@ -167,6 +168,8 @@
 "aveceditora.com.br","PhishingToday feed","2021-02-11 02:50:11"
 "http://sulpra.com.br","PhishingToday feed","2021-02-11 02:50:10"
 "41imoveis.com.br","PhishingToday feed","2021-02-11 02:50:10"
+"ccth.esp.br","DigitalSide Malware report: MD5: d08bfb133391fc8b069d8c851098dd81","2021-02-10 11:57:11"
+"ddesignmoveis.com.br","DigitalSide Malware report: MD5: 211b64a47cb52d8b6e7273c25e756cb2","2021-02-10 11:40:24"
 "www.cadastro.futebolnomundo.com.br","CertStream feed","2021-02-10 02:55:03"
 "documentos.acesso.liberacao.br.barradentcenter.com.br","CertStream feed","2021-02-10 02:55:03"
 "www.documentos.acesso.liberacao.br.barradentcenter.com.br","CertStream feed","2021-02-10 02:55:03"
