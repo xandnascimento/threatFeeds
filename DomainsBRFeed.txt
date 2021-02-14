@@ -1,3 +1,4 @@
+"http://f0497256.xsph.ru/wet2018/index.php?email=gerente.sc@medchap.com.br","OpenPhish url list feed","2021-02-14 01:55:08"
 "www.bradesco.pronotoranet.com.br","CertStream feed","2021-02-13 02:55:02"
 "en.capitalizaleiloes.com.br","CertStream feed","2021-02-13 02:55:02"
 "leiloes.mercadoleiloes.com.br","CertStream feed","2021-02-13 02:55:02"
