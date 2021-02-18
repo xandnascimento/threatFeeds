@@ -1657,7 +1657,6 @@
 "foresta-mod.firebaseapp.com","hostname"
 "forgesmithvr.com","domain"
 "form.elementform.com","hostname"
-"form.jotform.com","hostname"
 "forms.saurashtrauniversity.edu","hostname"
 "forumasik.com","domain"
 "forums.rstools.club","hostname"
