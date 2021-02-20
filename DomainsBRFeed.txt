@@ -200,6 +200,7 @@
 "bertges.com.br","PhishingToday feed","2021-02-19 02:50:12"
 "41imoveis.com.br","PhishingToday feed","2021-02-19 02:50:11"
 "http://frago.officematic.com.br","PhishingToday feed","2021-02-19 02:50:08"
+"marcostrombetta.com.br","DigitalSide Malware report: MD5: c932cf352c7f9a7748dc28b3b1a8ac1c","2021-02-18 15:36:05"
 "amstv.com.br","Cuckoo Sandbox analysis #17783","2021-02-18 08:43:42"
 "itu.seminovos.applau.summusmarketing.com.br","CertStream feed","2021-02-18 02:55:02"
 "tatui.seminovos.applau.summusmarketing.com.br","CertStream feed","2021-02-18 02:55:02"
@@ -6007,4 +6008,3 @@
 "anbf.adv.br","PhishingToday feed","2021-01-21 02:51:16"
 "algotextil.com.br","PhishingToday feed","2021-01-21 02:51:15"
 "41imoveis.com.br","PhishingToday feed","2021-01-21 02:51:11"
-"prodescsaude.com.br","DigitalSide Malware report: MD5: 40263189eac1ca98fb192573e6b04471","2021-01-20 20:18:16"
