@@ -6068,4 +6068,3 @@
 "algotextil.com.br","PhishingToday feed","2021-01-23 02:50:48"
 "41imoveis.com.br","PhishingToday feed","2021-01-23 02:50:46"
 "https://www.lcloud-support.net/?v=Apple.br","PhishingToday feed","2021-01-23 02:50:07"
-"novo2.deussalveobrasil.com.br","DigitalSide Malware report: MD5: dbe094e2e28fe2cad0052f5d9c3a20eb","2021-01-22 19:11:06"
