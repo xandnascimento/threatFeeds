@@ -1,3 +1,4 @@
+"plasfan.ind.br","Cuckoo Sandbox analysis #1453","2021-02-26 22:16:49"
 "gabrielleiloes.com.br","CertStream feed","2021-02-26 02:55:02"
 "gabrielrosaleiloes.com.br","CertStream feed","2021-02-26 02:55:02"
 "unicred-gestao.com.br","CertStream feed","2021-02-26 02:55:02"
@@ -6141,6 +6142,3 @@
 "anbf.adv.br","PhishingToday feed","2021-01-28 02:51:19"
 "algotextil.com.br","PhishingToday feed","2021-01-28 02:51:17"
 "41imoveis.com.br","PhishingToday feed","2021-01-28 02:51:13"
-"neuromedic.com.br","DigitalSide Malware report: MD5: 5a7e3e87f007da7d39bd5cb58cac10d0","2021-01-27 16:52:08"
-"neuromedic.com.br","DigitalSide Malware report: MD5: 98119f6305337412e58f0d3ca740a227","2021-01-27 16:36:11"
-"faustinomatos.com.br","DigitalSide Malware report: MD5: 333ea1018591d67e912b0ca0bba42db4","2021-01-27 14:32:06"
