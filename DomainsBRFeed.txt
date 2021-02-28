@@ -6065,4 +6065,3 @@
 "anbf.adv.br","PhishingToday feed","2021-01-29 02:51:16"
 "algotextil.com.br","PhishingToday feed","2021-01-29 02:51:14"
 "41imoveis.com.br","PhishingToday feed","2021-01-29 02:51:10"
-"neuromedic.com.br","DigitalSide Malware report: MD5: 263f0b35e5768e624a84ac122bbf6a8c","2021-01-28 17:56:06"
