@@ -5971,8 +5971,3 @@
 "anbf.adv.br","PhishingToday feed","2021-02-02 02:50:13"
 "41imoveis.com.br","PhishingToday feed","2021-02-02 02:50:12"
 "http://f0497256.xsph.ru/wet2018/index.php?email=gerente.sc@medchap.com.br","PhishingToday feed","2021-02-02 02:50:05"
-"cdrdf.bsb.br","DigitalSide Malware report: MD5: a7515d95901556cc59f2825a65a36d6a","2021-02-01 22:02:06"
-"lunaeventos.net.br","DigitalSide Malware report: MD5: d91d846f2cd5f791cfae21bec49fb3d5","2021-02-01 21:18:06"
-"leluibuffet.com.br","DigitalSide Malware report: MD5: d57f8957ceb00c74cc3aeab23ecf47be","2021-02-01 21:15:07"
-"compremaisaqui.com.br","DigitalSide Malware report: MD5: 1bf829726f8599136244daf6f12f61b8","2021-02-01 17:44:06"
-"coltdogracoes.com.br","DigitalSide Malware report: MD5: c7fe38fb25ed6ef0c4652a42a2d2882b","2021-02-01 16:59:08"
