@@ -143,6 +143,7 @@
 "anbf.adv.br","PhishingToday feed","2021-03-09 02:50:14"
 "area53.com.br","PhishingToday feed","2021-03-09 02:50:14"
 "41imoveis.com.br","PhishingToday feed","2021-03-09 02:50:13"
+"decifrar.com.br","DigitalSide Malware report: MD5: 868a12c8e14d46b1523e9357cce5016c","2021-03-08 07:59:10"
 "www.oferta.casadopescadorms.com.br","CertStream feed","2021-03-08 02:55:04"
 "consultleiloes.alinks.com.br","CertStream feed","2021-03-08 02:55:04"
 "www.consultleiloes.alinks.com.br","CertStream feed","2021-03-08 02:55:04"
