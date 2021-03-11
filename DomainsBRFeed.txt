@@ -5648,4 +5648,3 @@
 "area53.com.br","PhishingToday feed","2021-02-09 02:50:13"
 "41imoveis.com.br","PhishingToday feed","2021-02-09 02:50:11"
 "http://sulpra.com.br","PhishingToday feed","2021-02-09 02:50:10"
-"kmt.vianati.com.br","DigitalSide Malware report: MD5: 483a945e23312a5f2e7b420734fc331e","2021-02-08 14:40:06"
