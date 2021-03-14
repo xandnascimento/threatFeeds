@@ -5654,4 +5654,3 @@
 "http://grupwhatsapp17.creamy.com.br","PhishingToday feed","2021-02-12 02:50:01"
 "http://grupwhatsapp88.creamy.com.br","PhishingToday feed","2021-02-12 02:50:01"
 "http://grupwhatsapp.blog.skelt.com.br","PhishingToday feed","2021-02-12 02:50:01"
-"viveirodoiscorregos.com.br","DigitalSide Malware report: MD5: 06ddae0e67a048aff8829413a7903bec","2021-02-12 01:28:05"
