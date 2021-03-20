@@ -5494,6 +5494,3 @@
 "alvaroluizcansancao.com.br","PhishingToday feed","2021-02-18 02:50:12"
 "http://www.chat.whatsapp.com.creamy.com.br","PhishingToday feed","2021-02-18 02:50:09"
 "http://chat.whatsapp.com.creamy.com.br","PhishingToday feed","2021-02-18 02:50:08"
-"controleautomacao.com.br","DigitalSide Malware report: MD5: 0754d61449d4f3fcfb69b0689b3e86bb","2021-02-18 02:00:09"
-"novo.comerciovalinhos.com.br","DigitalSide Malware report: MD5: 8040027d3b0d5643837366b46e114e47","2021-02-18 01:35:16"
-"eloarmarinho.com.br","DigitalSide Malware report: MD5: a1f4078589c2b67b659538fa40653e15","2021-02-17 20:04:57"
