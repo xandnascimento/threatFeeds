@@ -5490,4 +5490,3 @@
 "bertges.com.br","PhishingToday feed","2021-02-19 02:50:12"
 "41imoveis.com.br","PhishingToday feed","2021-02-19 02:50:11"
 "http://frago.officematic.com.br","PhishingToday feed","2021-02-19 02:50:08"
-"marcostrombetta.com.br","DigitalSide Malware report: MD5: c932cf352c7f9a7748dc28b3b1a8ac1c","2021-02-18 15:36:05"
