@@ -182,6 +182,7 @@
 "bertges.com.br","PhishingToday feed","2021-03-26 02:50:17"
 "agendabeliving.com.br","PhishingToday feed","2021-03-26 02:50:16"
 "algotextil.com.br","PhishingToday feed","2021-03-26 02:50:16"
+"ocean.tecnasulstore.com.br","DigitalSide Malware report: MD5: b84e6042a8f03bd18b3d70391447d195","2021-03-25 05:52:08"
 "www.coronavirus.pmericocardoso.ba.gov.br","CertStream feed","2021-03-25 02:55:03"
 "testeadmin.nakakogueleiloes.com.br","CertStream feed","2021-03-25 02:55:03"
 "testesite.nakakogueleiloes.com.br","CertStream feed","2021-03-25 02:55:03"
