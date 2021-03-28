@@ -82,7 +82,6 @@
 "http://ddkiiqefmiir.xyz/panel/upload/data.cmp","url"
 "http://liverpoolofcfanclub.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-27E1CB7E9B88D8D20F82B3D3CAD36401.html","url"
 "http://liverpoolofcfanclub.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-9E1BD4C50498520D5FEDC5C954A6B22F.html","url"
-"http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab","url"
 "https://72.128.158.51/yas54/JSPC_W617601.BB5C3F7D38FF3AF1391B33BE623D9793/0/Windows%207%20x86%20SP1/1105/168.119.23.149/BA640E3B6E62A28F88ADCBB0E898D8C5BFD2DCB4412D128D0389005A84F6375A/CBHRZKrFs6iYVZ0vMCxq/","url"
 "https://72.128.158.51/yas54/JSPC_W617601.BB5C3F7D38FF3AF1391B33BE623D9793/14/DNSBL/not%20listed/0/","url"
 "https://72.128.158.51/yas54/JSPC_W617601.BB5C3F7D38FF3AF1391B33BE623D9793/14/path/C:%5CUsers%5CJS%5CAppData%5CRoaming%5C7Zip_2999732995%5C06bab8c2471bf909b73801d1cb458678.exe/0/","url"
