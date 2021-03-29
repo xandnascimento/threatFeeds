@@ -5484,4 +5484,3 @@
 "41imoveis.com.br","PhishingToday feed","2021-02-27 02:50:13"
 "agendabeliving.com.br","PhishingToday feed","2021-02-27 02:50:13"
 "algotextil.com.br","PhishingToday feed","2021-02-27 02:50:13"
-"plasfan.ind.br","Cuckoo Sandbox analysis #1453","2021-02-26 22:16:49"
