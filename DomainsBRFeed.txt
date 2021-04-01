@@ -270,6 +270,7 @@
 "anbf.adv.br","PhishingToday feed","2021-03-31 02:50:13"
 "area53.com.br","PhishingToday feed","2021-03-31 02:50:13"
 "http://www.davidaniceto.com.br","PhishingToday feed","2021-03-31 02:50:10"
+"connectcapital.com.br","DigitalSide Malware report: MD5: 5ab62455a6925f0e8adcdb4eaa9e0000","2021-03-30 04:10:18"
 "internegocios.com.br","CertStream feed","2021-03-30 02:55:02"
 "www.internegocios.com.br","CertStream feed","2021-03-30 02:55:02"
 "www.americanas.dttips.com.br","CertStream feed","2021-03-30 02:55:02"
