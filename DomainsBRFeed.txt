@@ -231,6 +231,7 @@
 "algotextil.com.br","PhishingToday feed","2021-04-03 02:50:14"
 "http://hxxps://bluraynews.com.br","PhishingToday feed","2021-04-03 02:50:13"
 "http://ieclb.com.br","PhishingToday feed","2021-04-03 02:50:13"
+"essentia.org.br","DigitalSide Malware report: MD5: f87302b39fcf6c96995e1ceba8ae45c7","2021-04-02 14:06:19"
 "www.cadastro.comunidadetenda.com.br","CertStream feed","2021-04-02 02:55:03"
 "www.coronavirus.pauloafonsojr.com.br","CertStream feed","2021-04-02 02:55:03"
 "sessao-estrategica-empresarial.harmoniaa2.com.br","CertStream feed","2021-04-02 02:55:03"
