@@ -42,7 +42,6 @@
 "https://api.ip.sb/","url"
 "https://api.ipify.org/ip","url"
 "https://ident.me/raw","url"
-"https://www.myexternalip.com/raw","url"
 "ident.me","domain|ip"
 "ip.anysrc.net","domain|ip"
 "myexternalip.com","domain|ip"

@@ -102,7 +102,6 @@
 "https://72.128.158.51/yas54/JSPC_W617601.BB5C3F7D38FF3AF1391B33BE623D9793/23/100014/","url"
 "https://72.128.158.51/yas54/JSPC_W617601.BB5C3F7D38FF3AF1391B33BE623D9793/5/file/","url"
 "https://update.googleapis.com/service/update2?cup2key=10:3062211919&cup2hreq=5cb890335d3fcc53c1ae822116217a406db395a81981412560174e1a68a66821","url"
-"https://www.myexternalip.com/raw","url"
 "liverpoolofcfanclub.com","domain|ip"
 "r2---sn-4g5ednsl.gvt1.com","domain|ip"
 "www.myexternalip.com","domain|ip"

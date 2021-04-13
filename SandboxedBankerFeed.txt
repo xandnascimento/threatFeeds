@@ -470,7 +470,5 @@
 "https://www.facebook.com/","url"
 "https://www.facebook.com/adpreferences/ad_settings/?entry_product=account_settings_menu","url"
 "https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fadpreferences%2Fad_settings%2F%3Fentry_product%3Daccount_settings_menu","url"
-"https://www.facebook.com/settings","url"
 "https://www.facebook.com/settings?cquick=jsc_c_e&cquick_token=AQ70wUYGpG6V7yILJjQ&ctarget=https%3A%2F%2Fwww.facebook.com","url"
 "ip-api.com","domain|ip"
-"www.facebook.com","domain|ip"

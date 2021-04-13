@@ -2133,4 +2133,3 @@
 "http://pervogoaprela.ru/0942c3aad278ce5ea571a61712b4506a.php","url"
 "https://raw.githubusercontent.com/errorsysteme1/base_rep/master/Install_CM.mc","url"
 "pervogoaprela.ru","domain|ip"
-"raw.githubusercontent.com","domain|ip"
