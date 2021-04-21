@@ -1,3 +1,4 @@
+"https://www.deltacrypt.com/Concluir/ambiente_seguro/conclusao.asp?cliente=abiliovieira@terra.com.br","OpenPhish url list feed","2021-04-21 01:55:14"
 "www.semob.coliseumleiloes.com.br","CertStream feed","2021-04-20 02:55:04"
 "agilles.coliseumleiloes.com.br","CertStream feed","2021-04-20 02:55:04"
 "www.agilles.coliseumleiloes.com.br","CertStream feed","2021-04-20 02:55:04"
