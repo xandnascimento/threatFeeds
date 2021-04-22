@@ -195,7 +195,6 @@
 "agendabeliving.com.br","PhishingToday feed","2021-04-21 02:50:15"
 "algotextil.com.br","PhishingToday feed","2021-04-21 02:50:15"
 "amazon.com.security.login.criativasistemas.com.br","PhishingToday feed","2021-04-21 02:50:15"
-"https://www.deltacrypt.com/Concluir/ambiente_seguro/conclusao.asp?cliente=abiliovieira@terra.com.br","OpenPhish url list feed","2021-04-21 01:55:14"
 "www.semob.coliseumleiloes.com.br","CertStream feed","2021-04-20 02:55:04"
 "agilles.coliseumleiloes.com.br","CertStream feed","2021-04-20 02:55:04"
 "www.agilles.coliseumleiloes.com.br","CertStream feed","2021-04-20 02:55:04"
