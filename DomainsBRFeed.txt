@@ -1,3 +1,4 @@
+"http://www.synoxpigments.com.br/www.itau.com.br","OpenPhish url list feed","2021-04-27 01:55:15"
 "cpanel.cadastro.adufrj.org.br","CertStream feed","2021-04-26 02:55:01"
 "cpcalendars.cadastro.adufrj.org.br","CertStream feed","2021-04-26 02:55:01"
 "cpcontacts.cadastro.adufrj.org.br","CertStream feed","2021-04-26 02:55:01"
