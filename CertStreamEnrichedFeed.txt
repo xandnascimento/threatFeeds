@@ -97,3 +97,6 @@ domain|Subject Alternative Name|Certificate SerialNumber
 "zukermanleiloesoficial.com"|""|""
 "zul-giftcard-api.dev.homolog.me"|"DNS:sandbox.gitfcard.api.zuldigital.com.br, DNS:zul-giftcard-api.dev.homolog.me"|"04:38:cb:ff:95:2e:74:27:e5:9e:db:04:f1:01:b1:aa:7a:e8"
 "zurich.seguros-generales.es"|"DNS:zurich.seguros-generales.es, DNS:www.zurich.seguros-generales.es"|"80:a4:e0:2f:be:86:5d:7a:f1:5d:4d:1a:4c:8d:a8:87"
+"zukermanleiloesoficial.com"|""|""
+"zul-giftcard-api.dev.homolog.me"|"DNS:sandbox.gitfcard.api.zuldigital.com.br, DNS:zul-giftcard-api.dev.homolog.me"|"04:38:cb:ff:95:2e:74:27:e5:9e:db:04:f1:01:b1:aa:7a:e8"
+"zurich.seguros-generales.es"|"DNS:zurich.seguros-generales.es, DNS:www.zurich.seguros-generales.es"|"80:a4:e0:2f:be:86:5d:7a:f1:5d:4d:1a:4c:8d:a8:87"
