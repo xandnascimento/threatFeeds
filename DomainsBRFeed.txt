@@ -6069,4 +6069,3 @@
 "anbf.adv.br","PhishingToday feed","2021-03-30 02:50:15"
 "area53.com.br","PhishingToday feed","2021-03-30 02:50:15"
 "atelieadrika.com.br","PhishingToday feed","2021-03-30 02:50:15"
-"hrnautica.com.br","DigitalSide Malware report: MD5: 22ae03ee15cbd216b614af831efc2727","2021-03-29 14:37:51"
