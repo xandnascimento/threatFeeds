@@ -5834,5 +5834,3 @@
 "area53.com.br","PhishingToday feed","2021-04-01 02:50:14"
 "http://cmjosenopolis.mg.gov.br","PhishingToday feed","2021-04-01 02:50:13"
 "http://boatpecas.com.br","PhishingToday feed","2021-04-01 02:50:13"
-"fvsvendaonline.com.br","DigitalSide Malware report: MD5: 24ae70b23adfe95131029c9fc257de3c","2021-03-31 17:32:38"
-"ioabc.wif.com.br","DigitalSide Malware report: MD5: d29310c232038a6dd1f2b8749be5619e","2021-03-31 15:01:33"
