@@ -223,7 +223,6 @@
 "cdc6ca4d316139a051c75e61445dbef8cfeaf8f2569d6d2c9f3ae750b824f270","sha256"
 "ce7d1eda415f7f96bc0d1a756ad3db862751d1d0","sha1"
 "cf563b4ad90a5216dd888f2c26ce9e9c25790fdd","sha1"
-"checkip.dyndns.org","domain|ip"
 "clients1.google.com","domain|ip"
 "clients2.googleusercontent.com","domain|ip"
 "clientservices.googleapis.com","domain|ip"

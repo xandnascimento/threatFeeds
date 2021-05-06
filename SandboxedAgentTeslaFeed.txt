@@ -236,7 +236,6 @@
 "cdaacff5e2118313479b5e8975d191e71731c2bb1646a4ee5bbf0adf22d86450","sha256"
 "cdc6ca4d316139a051c75e61445dbef8cfeaf8f2569d6d2c9f3ae750b824f270","sha256"
 "cf563b4ad90a5216dd888f2c26ce9e9c25790fdd","sha1"
-"checkip.dyndns.org","domain|ip"
 "clientservices.googleapis.com","domain|ip"
 "d0203770196567aeee477865b244b54b","md5"
 "d0b4a4ca3f6d68b06b3547de97b61876f2bdb4a3fd23ebfc65d4a267da63b830","sha256"
