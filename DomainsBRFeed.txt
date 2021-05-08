@@ -5458,6 +5458,3 @@
 "autorizador5.com.br","PhishingToday feed","2021-04-08 02:50:13"
 "bertges.com.br","PhishingToday feed","2021-04-08 02:50:13"
 "agendabeliving.com.br","PhishingToday feed","2021-04-08 02:50:12"
-"wordpress.saleensuporte.com.br","DigitalSide Malware report: MD5: d47db68452d9fbd3e11f93f10355243e","2021-04-08 00:48:51"
-"e-commerce.saleensuporte.com.br","DigitalSide Malware report: MD5: c033932c15f002e82005af6207370743","2021-04-07 17:07:42"
-"invest.xpcorporative.com.br","DigitalSide Malware report: MD5: d47db68452d9fbd3e11f93f10355243e","2021-04-07 15:40:30"
