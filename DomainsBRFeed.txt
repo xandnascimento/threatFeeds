@@ -5376,4 +5376,3 @@
 "agendabeliving.com.br","PhishingToday feed","2021-04-09 02:50:11"
 "algotextil.com.br","PhishingToday feed","2021-04-09 02:50:11"
 "anbf.adv.br","PhishingToday feed","2021-04-09 02:50:11"
-"triplonet.com.br","DigitalSide Malware report: MD5: 0072e7e22e4bcb88850a828ff82e2147","2021-04-08 14:55:20"
