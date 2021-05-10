@@ -6891,3 +6891,6 @@ domain|Subject Alternative Name|Certificate SerialNumber
 "zoom.com.da2.laboratorios-virtuales.com"|""|""
 "zuccalmaglioleiloes.com.br"|"DNS:*.zuccalmaglioleiloes.com.br, DNS:zuccalmaglioleiloes.com.br"|"03:6d:33:3d:a7:7f:49:d1:fe:09:22:b2:24:28:31:80:4d:95"
 "zukermanleilaooficial.com"|"DNS:miniature-river.com"|"Signature"
+"zoom.com.da2.laboratorios-virtuales.com"|"DNS:miniature-river.com"|"Signature"
+"zuccalmaglioleiloes.com.br"|"DNS:*.zuccalmaglioleiloes.com.br, DNS:zuccalmaglioleiloes.com.br"|"03:6d:33:3d:a7:7f:49:d1:fe:09:22:b2:24:28:31:80:4d:95"
+"zukermanleilaooficial.com"|"DNS:miniature-river.com"|"Signature"
