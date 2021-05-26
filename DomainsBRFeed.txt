@@ -1,3 +1,5 @@
+"http://www.synoxpigments.com.br/www.itau.com.br","OpenPhish url list feed","2021-05-26 01:55:14"
+"https://young-dementia-guide.pt/wp-admin/lip/view/?email=marine@metalock.com.br","OpenPhish url list feed","2021-05-26 01:55:13"
 "https://eyjhbgcioijiuzi1niisinr5cci6ikpxvcj9yj1c2vysuqioijvbmvmcmvtauby.s3-web.jp-tok.cloud-object-storage.appdomain.cloud/#vadda@vadda.com.br","Phishtank online valid phishing feed","2021-05-25 03:30:12"
 "leiloescopart.com.br","CertStream feed","2021-05-25 02:55:02"
 "www.leiloescopart.com.br","CertStream feed","2021-05-25 02:55:02"
