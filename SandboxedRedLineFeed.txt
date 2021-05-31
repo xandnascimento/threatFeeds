@@ -33,8 +33,6 @@
 "ad54a44a2041fd1ab0c3edb450b960c6dc15033b","sha1"
 "api.ip.sb","domain|ip"
 "b6c538b3f39eb8a92b05600816f4fcd94d962325","sha1"
-"clients1.google.com","domain|ip"
-"clients2.googleusercontent.com","domain|ip"
 "d8f1efb65e352c02428502e3883c379229bfa0cd150633a07196be0278a9d63f","sha256"
 "dotnet.microsoft.com","domain|ip"
 "ec13341236ec89183592fa8f6328d07b","md5"
