@@ -289,6 +289,7 @@
 "abraz.com.br","PhishingToday feed","2021-06-02 02:50:32"
 "algotextil.com.br","PhishingToday feed","2021-06-02 02:50:32"
 "alphabio.envolvelabs.com.br","PhishingToday feed","2021-06-02 02:50:32"
+"tv5a.com.br","DigitalSide Malware report: MD5: 6275fe089a0b00bc09634d56a39309f5","2021-06-01 03:12:06"
 "www.canalleiloes.com.br","CertStream feed","2021-06-01 02:55:08"
 "www.oferta.autoescolasarapui.com.br","CertStream feed","2021-06-01 02:55:08"
 "www.cadastro.japonessemfronteiras.com.br","CertStream feed","2021-06-01 02:55:07"
