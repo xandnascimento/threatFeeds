@@ -5818,4 +5818,3 @@
 "bertges.com.br","PhishingToday feed","2021-05-05 02:50:11"
 "blog.premiershop.com.br","PhishingToday feed","2021-05-05 02:50:11"
 "algotextil.com.br","PhishingToday feed","2021-05-05 02:50:10"
-"plataforma.uenf.br","DigitalSide Malware report: MD5: 2fc978a82c14ac0454a04b820176cba0","2021-05-04 15:41:08"
