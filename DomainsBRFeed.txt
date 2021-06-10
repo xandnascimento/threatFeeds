@@ -1,3 +1,4 @@
+"http://www.synoxpigments.com.br/www.itau.com.br","OpenPhish url list feed","2021-06-10 01:55:16"
 "www.atendimento.hbinternet.com.br","CertStream feed","2021-06-09 02:55:02"
 "www.atendimento.pluginprojetores.com.br","CertStream feed","2021-06-09 02:55:02"
 "cpcc.artedigitalinternet.com.br","CertStream feed","2021-06-09 02:55:02"
