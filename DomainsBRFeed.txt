@@ -1,3 +1,4 @@
+"http://www.differentconceptpromotion.com/TO/atendimento@maistype.com.br","OpenPhish url list feed","2021-06-11 01:55:14"
 "www.boleto.laserinternet.com.br","CertStream feed","2021-06-10 02:55:02"
 "simonleiloes.com.br","CertStream feed","2021-06-10 02:55:02"
 "www.simonleiloes.com.br","CertStream feed","2021-06-10 02:55:02"
@@ -160,7 +161,6 @@
 "algotextil.com.br","PhishingToday feed","2021-06-10 02:50:14"
 "alphabio.envolvelabs.com.br","PhishingToday feed","2021-06-10 02:50:14"
 "http://canal.loudgaming.com.br","PhishingToday feed","2021-06-10 02:50:07"
-"http://www.synoxpigments.com.br/www.itau.com.br","OpenPhish url list feed","2021-06-10 01:55:16"
 "www.atendimento.hbinternet.com.br","CertStream feed","2021-06-09 02:55:02"
 "www.atendimento.pluginprojetores.com.br","CertStream feed","2021-06-09 02:55:02"
 "cpcc.artedigitalinternet.com.br","CertStream feed","2021-06-09 02:55:02"
