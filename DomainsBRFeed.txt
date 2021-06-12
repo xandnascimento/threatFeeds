@@ -180,7 +180,6 @@
 "alphabio.envolvelabs.com.br","PhishingToday feed","2021-06-11 02:50:15"
 "http://www.synoxpigments.com.br/www.itau.com.br","PhishingToday feed","2021-06-11 02:50:07"
 "http://bankofamericaverify.tk.grupopescaroli.com.br","PhishingToday feed","2021-06-11 02:50:02"
-"http://www.differentconceptpromotion.com/TO/atendimento@maistype.com.br","OpenPhish url list feed","2021-06-11 01:55:14"
 "www.boleto.laserinternet.com.br","CertStream feed","2021-06-10 02:55:02"
 "simonleiloes.com.br","CertStream feed","2021-06-10 02:55:02"
 "www.simonleiloes.com.br","CertStream feed","2021-06-10 02:55:02"
