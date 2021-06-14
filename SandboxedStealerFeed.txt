@@ -566,6 +566,7 @@
 "https://script.google.com/macros/s/AKfycbyeDUociDSMjODhy_ZapM5zzyoJ3zrch9n5IUJeKIM3UQOEtZs/exec?loc=DE&app=Staoism&payoutcents=0.08&ver=3.5&ip=168.119.23.149","url"
 "https://tttttt.me/iot3redisium","url"
 "https://tttttt.me/kokajakprozak","url"
+"https://update.googleapis.com/service/update2?cup2key=10:1971324096&cup2hreq=f2209a97fffa2901a6293c46d451e9dfff3caeeb3c6f6c9a52742e463c294b52","url"
 "https://update.googleapis.com/service/update2?cup2key=10:2842619029&cup2hreq=1e987bc7d6d5237751620a8b315ef64c4cc43f9c2a5f52ab30039915af0b4e3a","url"
 "https://update.googleapis.com/service/update2?cup2key=10:2986195646&cup2hreq=be0b12c6cab2e810aae50933d8dd3350a4615e076fe28eeca369e143e4889da2","url"
 "https://update.googleapis.com/service/update2?cup2key=10:3253411351&cup2hreq=a59d18fe9794879f0720c1520f98559c20156a477557973b9aeb0654ba372a18","url"

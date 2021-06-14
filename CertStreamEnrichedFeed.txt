@@ -1,1 +1,7 @@
-domain|Subject Alternative Name|Certificate SerialNumber
+"acseldev.interseguro.com.pe"|""|""
+"activacionsign-caixa.act-es.com"|""|""
+"adccpm.empresarial.app.br"|"DNS:adccpm.empresarial.app.br"|"03:67:57:fc:34:db:7a:88:a8:a5:eb:76:79:69:c5:3e:07:04"
+"additionals.bmg-emperors.co.za"|"DNS:additionals.bmg-emperors.co.za, DNS:www.additionals.bmg-emperors.co.za"|"31:a2:c2:9c:d9:2c:dc:6e:1a:e5:00:3e:22:15:bb:35"
+"adesao-empresa.link"|""|""
+"adeslas.seguros-generales.es"|"DNS:adeslas.seguros-generales.es, DNS:www.adeslas.seguros-generales.es"|"42:89:65:e7:80:4e:f4:c7:72:b5:8f:78:01:97:93:92"
+"adm.ajleiloes.com.br"|"DNS:adm.ajleiloes.com.br, DNS:consultas.ajleiloes.com.br, DNS:www.adm.ajleiloes.com.br, DNS:www.consultas.ajleiloes.com.br"|"04:4b:c4:49:2f:fa:f0:55:42:eb:f1:cc:f8:e4:cb:d6:b2:b3"
