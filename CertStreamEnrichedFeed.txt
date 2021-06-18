@@ -1,1 +1,3 @@
-domain|Subject Alternative Name|Certificate SerialNumber
+"20200918-incluir-fatura.admin.intnet.io"|"DNS:20200918-incluir-fatura.admin.intnet.io"|"04:cf:a4:04:36:8a:28:23:d3:0a:ce:27:93:8e:66:9f:d2:49"
+"2021.wp.attract.zanussi.cashback.cms-dh.pacsis.org"|"DNS:2021.wp.attract.zanussi.cashback.cms-dh.pacsis.org, DNS:www.2021.wp.attract.zanussi.cashback.cms-dh.pacsis.org"|"03:f7:2a:e0:5d:da:aa:f8:d3:1c:63:de:fc:e8:71:2e:0a:74"
+"2021.wp.ignite.setup.electrolux.cashback.cms-dh.pacsis.org"|"DNS:2021.wp.ignite.setup.electrolux.cashback.cms-dh.pacsis.org"|"04:c8:58:28:23:c3:f9:37:9f:d0:73:f1:8e:e7:62:42:8f:fb"
