@@ -639,7 +639,6 @@
 "hitechplanet.it","domain|ip"
 "http://209.141.34.39/cap-01/pin.php","url"
 "http://63.141.228.141/32.php/S4wFP8QBww9Tp","url"
-"http://74.201.28.138/kpi/03/pin.php","url"
 "http://87.251.71.193//","url"
 "http://checkip.dyndns.org/","url"
 "http://edgedl.me.gvt1.com/edgedl/release2/update2/AIUdiWYcaIvMz1IBNCM0PPo_1.3.36.82/GoogleUpdateSetup.exe","url"
