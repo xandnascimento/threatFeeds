@@ -226,6 +226,7 @@
 "atelieadrika.com.br","PhishingToday feed","2021-06-22 02:51:59"
 "algotextil.com.br","PhishingToday feed","2021-06-22 02:51:55"
 "abraz.com.br","PhishingToday feed","2021-06-22 02:51:53"
+"alarmemusicalescolar.hiveweb.com.br","DigitalSide Malware report: MD5: 80809f0c012ec38b621e46543610d050","2021-06-21 17:51:06"
 "www.atendimento.autofixgarage.com.br","CertStream feed","2021-06-21 02:55:02"
 "www.aplicativo.conton.com.br","CertStream feed","2021-06-21 02:55:02"
 "cevb.cartaointerativodetodos.com.br","CertStream feed","2021-06-21 02:55:02"
