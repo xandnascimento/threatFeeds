@@ -1,3 +1,4 @@
+"http://www.synoxpigments.com.br/www.itau.com.br","OpenPhish url list feed","2021-06-24 01:55:20"
 "http://centraweb-mail.servehttp.com/?_email=aline.bezerra@bradesco.com.br","Phishtank online valid phishing feed","2021-06-23 03:30:15"
 "www.oferta.ballons.com.br","CertStream feed","2021-06-23 02:55:05"
 "t2.sispro.execucao.sabia.estaleiro.serpro.gov.br","CertStream feed","2021-06-23 02:55:05"
