@@ -124,6 +124,7 @@
 "www.cursopratico.bonsnegociosinternet.com.br","CertStream feed","2021-07-01 02:55:01"
 "www.amakha.bonsnegociosinternet.com.br","CertStream feed","2021-07-01 02:55:01"
 "www.rendaextra.bonsnegociosinternet.com.br","CertStream feed","2021-07-01 02:55:01"
+"vargasfarias.com.br","DigitalSide Malware report: MD5: 6fe7f561bad3472270bd05a6911cf44c","2021-06-30 23:52:06"
 "www.cadastro.cervejariasc.com.br","CertStream feed","2021-06-26 02:55:10"
 "www.atendimento.jlinformatica.com.br","CertStream feed","2021-06-26 02:55:10"
 "www.programa-dds.dentistadesignerdosorriso.com.br","CertStream feed","2021-06-26 02:55:10"
