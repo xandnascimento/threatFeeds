@@ -201,6 +201,8 @@
 "algotextil.com.br","PhishingToday feed","2021-07-03 02:50:30"
 "abraz.com.br","PhishingToday feed","2021-07-03 02:50:28"
 "http://aguamineralimperatriz.com.br","PhishingToday feed","2021-07-03 02:50:02"
+"biokeraline.com.br","DigitalSide Malware report: MD5: ac34aeef6269a81bbf30358a50b4d8ea","2021-07-02 14:39:14"
+"biokeraline.com.br","DigitalSide Malware report: MD5: 1fa2d8db24799c93d9b6aa37e05f5525","2021-07-02 14:38:10"
 "www.mercadopago.app.br","CertStream feed","2021-07-02 02:55:04"
 "mail.mercadopago.app.br","CertStream feed","2021-07-02 02:55:04"
 "www.cashback.app.br","CertStream feed","2021-07-02 02:55:04"
