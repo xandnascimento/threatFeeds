@@ -155,7 +155,6 @@
 "abraz.com.br","PhishingToday feed","2021-07-05 02:50:17"
 "agenciaamais.com.br","PhishingToday feed","2021-07-05 02:50:17"
 "alemanhaeamusica.com.br","PhishingToday feed","2021-07-05 02:50:17"
-"http://otokpas.com/correio.museu-goeldi.br","OpenPhish url list feed","2021-07-05 01:55:17"
 "gpu-hml.unimed-erechim.com.br","CertStream feed","2021-07-04 02:55:02"
 "www.atendimento.sensustec.com.br","CertStream feed","2021-07-04 02:55:02"
 "www.acesso.terratextil.com.br","CertStream feed","2021-07-04 02:55:02"
