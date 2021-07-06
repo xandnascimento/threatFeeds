@@ -78,5 +78,6 @@
 "fee2a0956fd7d2b95cfcd3f46abaf29fb86c8b83d0ee9c756a023a994919072d","sha256"
 "ff77403e0e7c8fdd9da95d98190653822f1ef224","sha1"
 "ffdb29cf4791d10ff1a2b110bc1b29abcc7f7fb8c1f638c0daadb3851e3d4d40","sha256"
+"http://zedaumalev.xyz/","url"
 "https://api.ip.sb/geoip","url"
 "zedaumalev.xyz","domain|ip"
