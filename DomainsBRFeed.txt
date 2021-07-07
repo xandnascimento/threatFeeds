@@ -162,6 +162,7 @@
 "alemanhaeamusica.com.br","PhishingToday feed","2021-07-06 02:50:13"
 "algotextil.com.br","PhishingToday feed","2021-07-06 02:50:13"
 "https://animamund.com.br","PhishingToday feed","2021-07-06 02:50:07"
+"gigantedastintas.com.br","DigitalSide Malware report: MD5: 2952d9076720600a8b25f1d95efeb765","2021-07-05 05:06:06"
 "www.fazendachia.com.br","This list contains all domains - A list for administrators to prevent mining in networks feed","2021-07-05 03:50:27"
 "www.fragasoft.com.br","This list contains all domains - A list for administrators to prevent mining in networks feed","2021-07-05 03:50:27"
 "webmail.fragasoft.com.br","This list contains all domains - A list for administrators to prevent mining in networks feed","2021-07-05 03:50:26"
