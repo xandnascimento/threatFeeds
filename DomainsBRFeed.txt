@@ -215,7 +215,6 @@
 "amhb.org.br","PhishingToday feed","2021-07-09 02:50:14"
 "https://neverseen.com.br","PhishingToday feed","2021-07-09 02:50:12"
 "https://jasonveiga.com.br","PhishingToday feed","2021-07-09 02:50:03"
-"http://www.synoxpigments.com.br/www.itau.com.br","OpenPhish url list feed","2021-07-09 01:55:21"
 "www.coronavirus.labocliv.com.br","CertStream feed","2021-07-08 02:55:02"
 "www.cadastro.parseint.com.br","CertStream feed","2021-07-08 02:55:02"
 "loja.bancopan.com.br","CertStream feed","2021-07-08 02:55:02"
