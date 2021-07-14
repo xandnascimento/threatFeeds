@@ -1,3 +1,4 @@
+"http://mialflfll.000webhostapp.com/parademinas.mg.gov.br","OpenPhish url list feed","2021-07-14 01:55:24"
 "www.clinica.ms-projects.com.br","CertStream feed","2021-07-13 02:55:02"
 "tokenintercambio.com.br","CertStream feed","2021-07-13 02:55:02"
 "www.ceciliagiulianopaisagismo.tokenintercambio.com.br","CertStream feed","2021-07-13 02:55:02"
@@ -134,6 +135,8 @@
 "abraz.com.br","PhishingToday feed","2021-07-13 02:50:13"
 "alemanhaeamusica.com.br","PhishingToday feed","2021-07-13 02:50:13"
 "algotextil.com.br","PhishingToday feed","2021-07-13 02:50:13"
+"desttakmultimarcas.com.br","DigitalSide Malware report: MD5: 99114947607cef7fa94a3fa5f2ab19e0","2021-07-12 11:45:09"
+"desttakmultimarcas.com.br","DigitalSide Malware report: MD5: 53c69feedfd8ecfb3b5d88d051151d21","2021-07-12 07:25:07"
 "integra.atendimento.alegrete.rs.gov.br","CertStream feed","2021-07-12 02:55:02"
 "www.atendimento.renatolorencini.com.br","CertStream feed","2021-07-12 02:55:02"
 "www.acesso.biometriars.com.br","CertStream feed","2021-07-12 02:55:02"
