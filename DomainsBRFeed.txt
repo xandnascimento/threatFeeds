@@ -177,7 +177,6 @@
 "autorizador5.com.br","PhishingToday feed","2021-07-14 02:50:16"
 "abraz.com.br","PhishingToday feed","2021-07-14 02:50:15"
 "http://www.itafaturaonline.com.br","PhishingToday feed","2021-07-14 02:50:04"
-"http://mialflfll.000webhostapp.com/parademinas.mg.gov.br","OpenPhish url list feed","2021-07-14 01:55:24"
 "www.clinica.ms-projects.com.br","CertStream feed","2021-07-13 02:55:02"
 "tokenintercambio.com.br","CertStream feed","2021-07-13 02:55:02"
 "www.ceciliagiulianopaisagismo.tokenintercambio.com.br","CertStream feed","2021-07-13 02:55:02"
