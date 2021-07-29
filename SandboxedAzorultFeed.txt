@@ -334,6 +334,5 @@
 "http://google.com/","url"
 "http://securebiz.org/dl/build2.exe","url"
 "https://cdn.discordapp.com/attachments/866596708238229528/866598240031211520/API.pif","url"
-"ogs.google.com","domain|ip"
 "securebiz.org","domain|ip"
 "sslamlssa1.tumblr.com","domain|ip"

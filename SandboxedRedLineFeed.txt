@@ -125,7 +125,6 @@
 "https://iplogger.org/1KKsp7","url"
 "https://iplogger.org/1yHLi7","url"
 "https://update.googleapis.com/service/update2?cup2key=10:3831706416&cup2hreq=be368bf04c513eb023451b46a2a56eb57404ab48ba33a9fd7de437f5055d6949","url"
-"ogs.google.com","domain|ip"
 "r2---sn-4g5edney.gvt1.com","domain|ip"
 "salanoajalio.xyz","domain|ip"
 "salkefard.xyz","domain|ip"
