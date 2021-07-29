@@ -331,7 +331,6 @@
 "http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/AIDSJGrIAR_6GKekQJvhOSI_1.3.36.81/FlU1w6tFdzzsxVNvvqMiCQ","url"
 "http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/AJD927i74k1lBFPyofryMko_1.3.36.91/bMPY3gg4TVlmGEtJqGkFyw","url"
 "http://gojekpromo.com/stealingdata/index.php","url"
-"http://google.com/","url"
 "http://securebiz.org/dl/build2.exe","url"
 "https://cdn.discordapp.com/attachments/866596708238229528/866598240031211520/API.pif","url"
 "securebiz.org","domain|ip"

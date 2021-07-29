@@ -113,7 +113,6 @@
 "http://edgedl.me.gvt1.com/edgedl/chromewebstore/L2Nocm9tZV9leHRlbnNpb24vYmxvYnMvNzI0QUFXNV9zT2RvdUwyMERESEZGVmJnQQ/1.0.0.6_nmmhkkegccagdldgiimedpiccmgmieda.crx","url"
 "http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/AIDSJGrIAR_6GKekQJvhOSI_1.3.36.81/FlU1w6tFdzzsxVNvvqMiCQ","url"
 "http://edgedl.me.gvt1.com/edgedl/release2/update2/LvXrVHWLP0y6Ai3VySPCvA_1.3.36.92/GoogleUpdateSetup.exe","url"
-"http://google.com/","url"
 "http://r2---sn-4g5edney.gvt1.com/edgedl/release2/chrome_component/AIDSJGrIAR_6GKekQJvhOSI_1.3.36.81/FlU1w6tFdzzsxVNvvqMiCQ?cms_redirect=yes&mh=Pe&mip=168.119.23.149&mm=28&mn=sn-4g5edney&ms=nvh&mt=1625327730&mv=u&mvi=2&pl=26&rmhost=r6---sn-4g5edney.gvt1.com&shardbypass=yes&smhost=r1---sn-4g5edns7.gvt1.com","url"
 "http://redirector.gvt1.com/edgedl/release2/chrome_component/AIDSJGrIAR_6GKekQJvhOSI_1.3.36.81/FlU1w6tFdzzsxVNvvqMiCQ","url"
 "http://salanoajalio.xyz/","url"
