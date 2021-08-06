@@ -168,7 +168,6 @@
 "http://ec2-3-26-29-245.ap-southeast-2.compute.amazonaws.com/login.php?caixa.com.br","PhishingToday feed","2021-08-05 02:50:03"
 "http://ec2-3-26-29-245.ap-southeast-2.compute.amazonaws.com/session.php?bb.com.br","PhishingToday feed","2021-08-05 02:50:03"
 "http://ec2-3-26-29-245.ap-southeast-2.compute.amazonaws.com/session.php?caixa.com.br","PhishingToday feed","2021-08-05 02:50:03"
-"https://www.gwdr.org/mobile/election/uhkskscnknvkcn/weireififdcxjki/ddhhddh.php?email=comunicacao@nardini.ind.br","OpenPhish url list feed","2021-08-05 01:55:23"
 "www.promocao.spartanknives.com.br","CertStream feed","2021-08-04 02:55:02"
 "atlas.milanleiloesjudical.com.br","CertStream feed","2021-08-04 02:55:02"
 "blog.programa-jejum-intermitente.memberkit.com.br","CertStream feed","2021-08-04 02:55:02"
