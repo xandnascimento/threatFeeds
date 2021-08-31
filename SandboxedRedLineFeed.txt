@@ -355,7 +355,6 @@
 "https://api.ip.sb/geoip","url"
 "https://cdn.discordapp.com/attachments/867927972013809777/871568246497755246/emlak.dll","url"
 "https://cdn.discordapp.com/attachments/869310376943181867/869390552234356837/DEFB.exe","url"
-"https://cdn.discordapp.com/attachments/869637885320658957/869638145543663646/build.exe","url"
 "https://crabsahead.xyz/","url"
 "https://crabsahead.xyz/api.php","url"
 "https://getdesignusa.xyz/","url"
