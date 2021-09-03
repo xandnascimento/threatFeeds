@@ -175,7 +175,6 @@
 "backupemnuvem.com.br","PhishingToday feed","2021-09-02 02:50:21"
 "agicon.srv.br","PhishingToday feed","2021-09-02 02:50:19"
 "algotextil.com.br","PhishingToday feed","2021-09-02 02:50:19"
-"http://nnailzl.000webhostapp.com/museu-goeldi.br","OpenPhish url list feed","2021-09-02 01:55:04"
 "leiloesinvestimentos.com.br","CertStream feed","2021-09-01 02:55:03"
 "www.afiliadoslucrativos.leiloesinvestimentos.com.br","CertStream feed","2021-09-01 02:55:03"
 "folha-cadastro-extracao-dev.cloud.itau.com.br","CertStream feed","2021-09-01 02:55:03"
