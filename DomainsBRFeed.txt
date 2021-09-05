@@ -145,7 +145,6 @@
 "algotextil.com.br","PhishingToday feed","2021-09-04 02:50:16"
 "apascoffee.com.br","PhishingToday feed","2021-09-04 02:50:16"
 "http://nnailzl.000webhostapp.com/museu-goeldi.br","PhishingToday feed","2021-09-04 02:50:02"
-"https://www.hornbillholiday.zebracross.in/ccccc/?em=caio.dalessi@brinks.com.br","OpenPhish url list feed","2021-09-04 01:55:03"
 "beta.caixa.elevtecnologia.com.br","CertStream feed","2021-09-03 02:55:04"
 "gama.caixa.elevtecnologia.com.br","CertStream feed","2021-09-03 02:55:04"
 "beta.fundosocialsicredi.com.br","CertStream feed","2021-09-03 02:55:04"
