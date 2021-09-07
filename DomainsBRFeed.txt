@@ -5287,4 +5287,3 @@
 "http://ec2-3-26-29-245.ap-southeast-2.compute.amazonaws.com/login.php?caixa.com.br","PhishingToday feed","2021-08-08 02:50:07"
 "http://ec2-3-26-29-245.ap-southeast-2.compute.amazonaws.com/session.php?bb.com.br","PhishingToday feed","2021-08-08 02:50:07"
 "http://ec2-3-26-29-245.ap-southeast-2.compute.amazonaws.com/session.php?caixa.com.br","PhishingToday feed","2021-08-08 02:50:07"
-"carolinascarpelini.com.br","Cuckoo Sandbox analysis #54817","2021-08-07 17:24:05"
