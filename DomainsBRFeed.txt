@@ -1,3 +1,4 @@
+"https://ssoportais.caixaresidencial.com.br/openam/XUI/?realm=TOKIOLFR&goto=http://portalparceiros.caixaresidencial.com.br","OpenPhish url list feed","2021-09-26 01:55:05"
 "https://icfpl.co.in/app-caixa-assinatura/web/acesso.php?caixa.gov.br","Phishtank online valid phishing feed","2021-09-25 03:30:10"
 "http://voed.ru/caixa-assinatura/web/acesso.php?caixa.gov.br","Phishtank online valid phishing feed","2021-09-25 03:30:09"
 "http://voed.ru/caixa-assinatura/web/acesso.php#caixa.gov.br","Phishtank online valid phishing feed","2021-09-25 03:30:09"
