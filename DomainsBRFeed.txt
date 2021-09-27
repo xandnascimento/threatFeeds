@@ -92,7 +92,6 @@
 "cpcalendars.clinica.agenciamegapixel.com.br","CertStream feed","2021-09-26 02:55:02"
 "cpcontacts.clinica.agenciamegapixel.com.br","CertStream feed","2021-09-26 02:55:02"
 "webdisk.clinica.agenciamegapixel.com.br","CertStream feed","2021-09-26 02:55:02"
-"https://ssoportais.caixaresidencial.com.br/openam/XUI/?realm=TOKIOLFR&goto=http://portalparceiros.caixaresidencial.com.br","OpenPhish url list feed","2021-09-26 01:55:05"
 "http://voed.ru/caixa-assinatura/web/acesso.php?caixa.gov.br","Phishtank online valid phishing feed","2021-09-25 03:30:09"
 "http://voed.ru/caixa-assinatura/web/acesso.php#caixa.gov.br","Phishtank online valid phishing feed","2021-09-25 03:30:09"
 "leiloesbrasil.com.br","CertStream feed","2021-09-25 02:55:02"
