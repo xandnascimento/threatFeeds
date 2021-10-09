@@ -108,6 +108,7 @@
 "fe9c6dfa83bf1e8dd1944b121f1882b6dbd73713","sha1"
 "feee3591f0484d66405288793b3583ef5fc27a84","sha1"
 "http://www.teknoarge.com/update/islem.php?mod=update&id=21896290&progid=2&oto=1","url"
+"http://www.teknoarge.com/update/islem.php?mod=update&id=21899400&progid=2&oto=1","url"
 "https://api.ip.sb/geoip","url"
 "tambisup.com","domain|ip"
 "www.teknoarge.com","domain|ip"
