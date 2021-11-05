@@ -1,3 +1,4 @@
+"http://sxvr.celsojuniorgmf.com.br/cls/click.zc/jquery.php?cliente=joseane%40grupocarvalho.com.br","OpenPhish url list feed","2021-11-05 01:55:05"
 "https://akips.blinklab.com/vi/?cliente=helou@helou.com.br","PhishScore feed","2021-11-04 03:00:17"
 "www.infinitileiloes.scryptlab.dev.br","CertStream feed","2021-11-04 02:55:03"
 "image.relacionamento.panasonic.com.br","CertStream feed","2021-11-04 02:55:03"
@@ -145,7 +146,6 @@
 "algotextil.com.br","PhishingToday feed","2021-11-04 02:50:17"
 "apascentar.net.br","PhishingToday feed","2021-11-04 02:50:17"
 "agenciatesla.com.br","PhishingToday feed","2021-11-04 02:50:16"
-"https://ssoportais.caixaresidencial.com.br/openam/XUI/?realm=TOKIOLFR&goto=http://portalparceiros.caixaresidencial.com.br","OpenPhish url list feed","2021-11-04 01:55:04"
 "dev.imagens.satoleiloes.com.br","CertStream feed","2021-11-03 02:55:03"
 "mkt.tezaleiloes.com.br","CertStream feed","2021-11-03 02:55:03"
 "www.cadastro.itaborainegocios.com.br","CertStream feed","2021-11-03 02:55:03"
