@@ -3331,7 +3331,6 @@
 "autorizador5.com.br","PhishingToday feed","2021-11-11 02:50:24"
 "algotextil.com.br","PhishingToday feed","2021-11-11 02:50:23"
 "https://central.tagmarshal.com//rockmongo/fl/?hash=xacas@xacas.com.br","Phishtank online valid phishing feed","2021-11-10 03:31:12"
-"https://central.tagmarshal.com//rockmongo/fl/?hash=feafa@feafa.com.br","Phishtank online valid phishing feed","2021-11-10 03:31:12"
 "www.atendimento.simonearruda.com.br","CertStream feed","2021-11-10 02:55:06"
 "www.acesso.kdmeusite.com.br","CertStream feed","2021-11-10 02:55:05"
 "painel.produzleiloes.com.br","CertStream feed","2021-11-10 02:55:05"
