@@ -146,4 +146,3 @@
 "http://colonna.ug/index.php","url"
 "http://edgedl.me.gvt1.com/edgedl/release2/update2/adxmomftrkoiodk7awyva3mz6uta_1.3.36.112/GoogleUpdateSetup.exe","url"
 "https://update.googleapis.com/service/update2?cup2key=10:2221333716&cup2hreq=53f44f932cd000111b9875e1b2b0cdd767b210f0799e7249a9a0cc79379b9d37","url"
-"https://update.googleapis.com/service/update2?cup2key=10:48926296&cup2hreq=2e4038922ad0202fbf7e1561f40072256290342b2d9799a506aa37a29d3608fe","url"
