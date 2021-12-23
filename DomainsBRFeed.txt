@@ -163,7 +163,6 @@
 "agora.imb.br","PhishingToday feed","2021-12-22 02:50:19"
 "algotextil.com.br","PhishingToday feed","2021-12-22 02:50:19"
 "42telecom.com.br","PhishingToday feed","2021-12-22 02:50:18"
-"http://suport-painel2021.com/suport.uol.com.br","OpenPhish url list feed","2021-12-22 01:55:05"
 "https://ltaucartaocredito.com.br","PhishScore feed","2021-12-21 03:00:13"
 "osegredodapersonalbronze.oficial-oferta-hoje.com.br","CertStream feed","2021-12-21 02:55:04"
 "arrematante.olianileiloes.com.br","CertStream feed","2021-12-21 02:55:03"
