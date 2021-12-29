@@ -385,7 +385,6 @@
 "fe29878a14359d451499e17417b6e30d","md5"
 "ff74a4f37311cf4dd59b011581ce5d32a22910e5a3362a1937bf1b580b433934","sha256"
 "ffebf47ab9a5a0e9b90008a659df7b340a9dae8945767143612ac9966db7253c","sha256"
-"gitlab.com","domain|ip"
 "http://178.62.232.173/","url"
 "http://178.62.232.173//l/f/JKxfpn0B3dP17SpzODFE/03a7cdef7755c9bf9d09dab1d78bd48cd81f10e1","url"
 "http://178.62.232.173//l/f/JKxfpn0B3dP17SpzODFE/73e9b6b549b2799d9c2f9b41ec29aa66fd796e66","url"
