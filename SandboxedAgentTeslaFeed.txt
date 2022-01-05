@@ -743,6 +743,7 @@
 "https://gitlab.com/users/sign_in","url"
 "https://update.googleapis.com/service/update2?cup2key=10:1532730086&cup2hreq=9b2ab380091dc5e1e9f1a0e3f53b0e36505ed8b4fe2227ad35ce7bfa13a6bec5","url"
 "https://update.googleapis.com/service/update2?cup2key=10:3605204602&cup2hreq=f7819c7685ffcda9eaec226d78b7a914e7814594629760bcfa4de658343fb1db","url"
+"https://update.googleapis.com/service/update2?cup2key=10:3759298812&cup2hreq=31f67cafe6389c56c2f4b70b0f6fad959ac7b350c8be3fbf3a0355f1db238b91","url"
 "https://update.googleapis.com/service/update2?cup2key=10:3927721117&cup2hreq=324cacd8309846f2349738d6c01b88983ab352b067d940e60121591d6e58ccdb","url"
 "https://update.googleapis.com/service/update2?cup2key=10:726647979&cup2hreq=9f4ff80aeb02c91f2909154492f687bfc2d8496168758e8c55c32eb1309613d4","url"
 "jamaru1444.myftp.biz","domain|ip"
