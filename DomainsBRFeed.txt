@@ -1,3 +1,5 @@
+"www.track.usps.delivered-f993765102uwx.graficavitoriaregia.com.br","PulseDive Domains feed","2022-01-23 03:37:06"
+"imersosemyeshua.com.br","PulseDive Domains feed","2022-01-23 03:37:00"
 "siape.intermediumconsig.com.br","CertStream feed","2022-01-23 02:55:18"
 "www.atendimento.verteron.com.br","CertStream feed","2022-01-23 02:55:17"
 "www.atendimento.datatech.inf.br","CertStream feed","2022-01-23 02:55:17"
@@ -3715,6 +3717,3 @@
 "agora.imb.br","PhishingToday feed","2021-12-25 02:50:22"
 "algotextil.com.br","PhishingToday feed","2021-12-25 02:50:22"
 "https://sarrafofinanciamentos.com.br","PhishingToday feed","2021-12-25 02:50:07"
-"hipi.com.br","ThreatFox IOCs for 2021-12-24","2021-12-24 04:42:11"
-"hipyfitness.com.br","ThreatFox IOCs for 2021-12-24","2021-12-24 04:42:11"
-"drogariasredeforte.com.br","ThreatFox IOCs for 2021-12-24","2021-12-24 04:41:55"
