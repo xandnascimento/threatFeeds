@@ -600,7 +600,6 @@
 "https://srotoswinisubarnarekha.com/wp-content/Xgeyjlurj.bin","url"
 "https://update.googleapis.com/service/update2?cup2key=10:1395445575&cup2hreq=45aca4312b2fc648d45f19f9202d0ec4da700418ef5f4389d913b7eb3f50615c","url"
 "https://update.googleapis.com/service/update2?cup2key=10:1451279245&cup2hreq=23870510f7c62dba7e11ac1ceddb54121d549be9a4d9af8430e80967bbe55ed5","url"
-"https://update.googleapis.com/service/update2?cup2key=10:1532730086&cup2hreq=9b2ab380091dc5e1e9f1a0e3f53b0e36505ed8b4fe2227ad35ce7bfa13a6bec5","url"
 "https://update.googleapis.com/service/update2?cup2key=10:3115683729&cup2hreq=91e8ed80c484fb417462b9499569c52c15d6fa277f4af9cb576cebe3870d095d","url"
 "https://update.googleapis.com/service/update2?cup2key=10:3759298812&cup2hreq=31f67cafe6389c56c2f4b70b0f6fad959ac7b350c8be3fbf3a0355f1db238b91","url"
 "https://update.googleapis.com/service/update2?cup2key=10:771735285&cup2hreq=fd8b07ff4abc732513ab9a4a88e87fb4aa048f4a23482317bfaf61c62c90570f","url"
