@@ -371,8 +371,6 @@
 "webdisk.expoenteleiloes.com.br","CertStream feed","2022-02-05 02:55:03"
 "webmail.expoenteleiloes.com.br","CertStream feed","2022-02-05 02:55:03"
 "megagynreformas.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-02-04 15:40:14"
-"http://megagynreformas.com.br","MalwarePatrol Mozilla AdBlock feed","2022-02-04 04:43:39"
-"http://ip3solucoes.com.br","MalwarePatrol Mozilla AdBlock feed","2022-02-04 04:43:18"
 "www.ventas.lnterbarnk.pe.ziiiro.com.br","PhishingToday feed","2022-02-04 02:56:36"
 "www.tecsuport.com.br","PhishingToday feed","2022-02-04 02:56:35"
 "www.sindarspen.org.br","PhishingToday feed","2022-02-04 02:56:33"
@@ -3799,4 +3797,3 @@
 "ardeso.com.br","PhishingToday feed","2022-01-08 02:50:55"
 "agora.imb.br","PhishingToday feed","2022-01-08 02:50:54"
 "algotextil.com.br","PhishingToday feed","2022-01-08 02:50:54"
-"locbike.com.br","Cuckoo Sandbox analysis #7886","2022-01-07 07:32:54"
