@@ -3710,4 +3710,3 @@
 "algotextil.com.br","PhishingToday feed","2022-01-09 02:50:26"
 "altodamontanha.com.br","PhishingToday feed","2022-01-09 02:50:26"
 "agora.imb.br","PhishingToday feed","2022-01-09 02:50:25"
-"locbike.com.br","Cuckoo Sandbox analysis #8148","2022-01-08 07:23:04"
