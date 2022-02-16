@@ -92,8 +92,6 @@
 "http://185.163.204.212/","url"
 "http://185.163.204.212//l/f/qKz7qn0B3dP17SpzLkvd/26e67d59ca24564b6ec4d049248fd043e9068912","url"
 "http://185.163.204.212//l/f/qKz7qn0B3dP17SpzLkvd/8ef05201c16f840108b60adbe494a3656ef3cebf","url"
-"http://185.163.204.212//l/f/qKz7qn0B3dP17SpzLkvd/d859f51de34f114b6536422ce0fc070e8561d525","url"
-"http://185.163.204.212//l/f/qKz7qn0B3dP17SpzLkvd/f41de5fb89d603af615a6148bfbcc49bd773549f","url"
 "http://185.163.204.22/brikitiki","url"
 "http://kotob.top/dl/build2.exe","url"
 "http://pretorian.ug/","url"
