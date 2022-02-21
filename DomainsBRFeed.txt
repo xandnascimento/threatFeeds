@@ -3378,5 +3378,3 @@
 "api.florense.com.br","PhishingToday feed","2022-01-22 02:52:29"
 "algotextil.com.br","PhishingToday feed","2022-01-22 02:52:27"
 "agora.imb.br","PhishingToday feed","2022-01-22 02:52:26"
-"www.track.usps.delivered-f993765102uwx.graficavitoriaregia.com.br","PulseDive Domains feed","2022-01-22 02:45:23"
-"imersosemyeshua.com.br","PulseDive Domains feed","2022-01-22 02:45:05"
