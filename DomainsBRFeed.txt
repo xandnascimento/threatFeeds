@@ -3386,5 +3386,3 @@
 "algotextil.com.br","PhishingToday feed","2022-01-24 02:50:53"
 "www.track.usps.delivered-f993765102uwx.graficavitoriaregia.com.br","PulseDive Domains feed","2022-01-24 02:45:12"
 "imersosemyeshua.com.br","PulseDive Domains feed","2022-01-24 02:45:04"
-"www.track.usps.delivered-f993765102uwx.graficavitoriaregia.com.br","PulseDive Domains feed","2022-01-23 03:37:06"
-"imersosemyeshua.com.br","PulseDive Domains feed","2022-01-23 03:37:00"
