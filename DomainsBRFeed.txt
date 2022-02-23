@@ -3404,5 +3404,3 @@
 "https://my.commbank.com.au.voe.eng.br","PhishingToday feed","2022-01-25 02:50:26"
 "www.track.usps.delivered-f993765102uwx.graficavitoriaregia.com.br","PulseDive Domains feed","2022-01-25 02:45:13"
 "imersosemyeshua.com.br","PulseDive Domains feed","2022-01-25 02:45:04"
-"deljardim.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-01-24 14:34:46"
-"jrpdv.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-01-24 14:34:46"
