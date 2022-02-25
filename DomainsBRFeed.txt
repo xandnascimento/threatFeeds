@@ -3389,5 +3389,3 @@
 "agora.imb.br","PhishingToday feed","2022-01-26 02:50:28"
 "algotextil.com.br","PhishingToday feed","2022-01-26 02:50:28"
 "http://hypesquad.com.br","PhishingToday feed","2022-01-26 02:50:03"
-"www.track.usps.delivered-f993765102uwx.graficavitoriaregia.com.br","PulseDive Domains feed","2022-01-26 02:45:05"
-"imersosemyeshua.com.br","PulseDive Domains feed","2022-01-26 02:45:02"
