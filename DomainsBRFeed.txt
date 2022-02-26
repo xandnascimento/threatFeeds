@@ -3452,5 +3452,3 @@
 "atento-fdi.plusoftomni.com.br","PhishingToday feed","2022-01-27 02:51:51"
 "algotextil.com.br","PhishingToday feed","2022-01-27 02:51:49"
 "agora.imb.br","PhishingToday feed","2022-01-27 02:51:48"
-"www.track.usps.delivered-f993765102uwx.graficavitoriaregia.com.br","PulseDive Domains feed","2022-01-27 02:45:14"
-"imersosemyeshua.com.br","PulseDive Domains feed","2022-01-27 02:45:06"
