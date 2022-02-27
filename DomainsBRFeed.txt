@@ -3466,7 +3466,3 @@
 "https://www.webdatasoft.com.br","PhishingToday feed","2022-01-28 02:50:12"
 "https://cc.lojacasafortunato.com.br","PhishingToday feed","2022-01-28 02:50:08"
 "www.track.usps.delivered-f993765102uwx.graficavitoriaregia.com.br","PulseDive Domains feed","2022-01-28 02:45:10"
-"imersosemyeshua.com.br","PulseDive Domains feed","2022-01-28 02:45:04"
-"foxcheats.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-01-27 15:40:09"
-"ip3solucoes.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-01-27 15:40:09"
-"meucapricho.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-01-27 15:40:09"
