@@ -3317,4 +3317,3 @@
 "www.cadastro.canadeouro.com.br","CertStream feed","2022-02-07 02:55:03"
 "nortmobleiloes.grupocarlostelecom.com.br","CertStream feed","2022-02-07 02:55:03"
 "www.nortmobleiloes.grupocarlostelecom.com.br","CertStream feed","2022-02-07 02:55:03"
-"biptec.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-02-06 15:40:12"
