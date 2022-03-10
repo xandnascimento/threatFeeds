@@ -1,3 +1,4 @@
+"www.calculo.adv.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-03-09 15:40:02"
 "www.exataweb.com.br","Cuckoo Sandbox analysis #23339","2022-03-09 12:25:59"
 "http://www.calculo.adv.br","MalwarePatrol Mozilla AdBlock feed","2022-03-09 04:41:44"
 "seguro.panttus.com.br","CertStream feed","2022-03-09 02:55:23"
