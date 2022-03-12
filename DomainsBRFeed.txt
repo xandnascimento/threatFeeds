@@ -3511,4 +3511,3 @@
 "www.vivo.inova6.com.br","CertStream feed","2022-02-10 02:55:04"
 "www.promocao.vivendosobrio.com.br","CertStream feed","2022-02-10 02:55:04"
 "www.pagamentos.docksan.com.br","CertStream feed","2022-02-10 02:55:03"
-"infoconsult.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-02-09 15:41:31"
