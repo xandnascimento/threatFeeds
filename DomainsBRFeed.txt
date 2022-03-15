@@ -3819,4 +3819,3 @@
 "amandakaroline.com.br","PhishingToday feed","2022-02-13 02:51:53"
 "algotextil.com.br","PhishingToday feed","2022-02-13 02:51:52"
 "agora.imb.br","PhishingToday feed","2022-02-13 02:51:50"
-"y.girelliinformatica.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-02-12 15:40:12"
