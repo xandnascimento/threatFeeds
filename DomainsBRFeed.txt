@@ -175,7 +175,6 @@
 "atento-fdi.plusoftomni.com.br","PhishingToday feed","2022-03-26 02:50:45"
 "algotextil.com.br","PhishingToday feed","2022-03-26 02:50:44"
 "3adistribuidora.com.br","PhishingToday feed","2022-03-26 02:50:42"
-"http://fabiano.toth.canbey.xyz/?=fabiano.toth@glassecviracon.com.br","OpenPhish url list feed","2022-03-26 01:55:21"
 "http://nx3xrx.lagushotel.com.br","PhishScore feed","2022-03-25 03:00:04"
 "www.cadastro.cempcv.com.br","CertStream feed","2022-03-25 02:55:06"
 "gpansolucoes.com.br","CertStream feed","2022-03-25 02:55:06"
