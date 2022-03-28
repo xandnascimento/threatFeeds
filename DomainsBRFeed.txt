@@ -1,3 +1,4 @@
+"lt.ruppersalimentos.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-03-27 15:40:05"
 "http://lt.ruppersalimentos.com.br","MalwarePatrol Mozilla AdBlock feed","2022-03-27 04:42:07"
 "http://meucapricho.com.br","MalwarePatrol Mozilla AdBlock feed","2022-03-27 04:42:07"
 "contileiloes.com.br","CertStream feed","2022-03-27 02:55:05"
