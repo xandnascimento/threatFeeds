@@ -4197,4 +4197,3 @@
 "amandakaroline.com.br","PhishingToday feed","2022-03-10 02:50:26"
 "3adistribuidora.com.br","PhishingToday feed","2022-03-10 02:50:25"
 "agora.imb.br","PhishingToday feed","2022-03-10 02:50:25"
-"www.calculo.adv.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-03-09 15:40:02"
