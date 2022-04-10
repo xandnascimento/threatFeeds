@@ -1,3 +1,5 @@
+"www.chocopan.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-09 15:40:04"
+"ts.ruppersalimentos.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-09 15:40:03"
 "https://www.chocopan.com.br","MalwarePatrol Mozilla AdBlock feed","2022-04-09 04:40:31"
 "http://www.chocopan.com.br","MalwarePatrol Mozilla AdBlock feed","2022-04-09 04:40:29"
 "http://ts.ruppersalimentos.com.br","MalwarePatrol Mozilla AdBlock feed","2022-04-09 04:40:28"
