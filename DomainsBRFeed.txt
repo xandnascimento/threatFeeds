@@ -1,3 +1,4 @@
+"www.itau.com.br","Cuckoo Sandbox analysis #31184","2022-04-11 19:29:13"
 "www.acesso.carrastro.com.br","CertStream feed","2022-04-11 02:55:09"
 "bancomonstro.bancointer.com.br","CertStream feed","2022-04-11 02:55:09"
 "www.cartao.natocarveiculos.com.br","CertStream feed","2022-04-11 02:55:09"
@@ -4012,4 +4013,3 @@
 "algotextil.com.br","PhishingToday feed","2022-03-13 02:50:24"
 "3adistribuidora.com.br","PhishingToday feed","2022-03-13 02:50:23"
 "http://amazon.sittabarbo.com.br","PhishingToday feed","2022-03-13 02:50:02"
-"leoedelucca.com.br","ThreatFox IOCs for 2022-03-13","2022-03-12 22:19:47"
