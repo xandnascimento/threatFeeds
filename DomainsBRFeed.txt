@@ -3975,4 +3975,3 @@
 "algotextil.com.br","PhishingToday feed","2022-03-19 02:50:41"
 "3adistribuidora.com.br","PhishingToday feed","2022-03-19 02:50:40"
 "http://ajecon.com.br","PhishingToday feed","2022-03-19 02:50:02"
-"fortetelecom.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-03-18 15:40:06"
