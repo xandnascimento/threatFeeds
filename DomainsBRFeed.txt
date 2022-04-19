@@ -1,3 +1,4 @@
+"www.mecseg.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-18 15:40:07"
 "http://www.mecseg.com.br","MalwarePatrol Mozilla AdBlock feed","2022-04-18 04:40:30"
 "www.empresarial.rpbweb.com.br","CertStream feed","2022-04-18 02:55:07"
 "duarteleiloes.dloficiais.com.br","CertStream feed","2022-04-18 02:55:07"
