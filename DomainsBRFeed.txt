@@ -1,3 +1,5 @@
+"http://www.camap.com.br","MalwarePatrol Mozilla AdBlock feed","2022-04-27 04:40:43"
+"http://www.gruporaizes.com.br","MalwarePatrol Mozilla AdBlock feed","2022-04-27 04:40:43"
 "https://itoki.spelar.se/bag/?cliente=egrossijr@terra.com.br","Phishtank online valid phishing feed","2022-04-27 03:30:34"
 "www-banc0falabella-cl.rchorizonte.com.br","PhishingToday feed","2022-04-27 03:10:20"
 "natalsafety.com.br","PhishingToday feed","2022-04-27 03:10:04"
