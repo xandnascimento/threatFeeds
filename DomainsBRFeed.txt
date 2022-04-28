@@ -1,3 +1,5 @@
+"www.camap.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-27 15:40:04"
+"www.gruporaizes.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-27 15:40:04"
 "http://www.camap.com.br","MalwarePatrol Mozilla AdBlock feed","2022-04-27 04:40:43"
 "http://www.gruporaizes.com.br","MalwarePatrol Mozilla AdBlock feed","2022-04-27 04:40:43"
 "https://itoki.spelar.se/bag/?cliente=egrossijr@terra.com.br","Phishtank online valid phishing feed","2022-04-27 03:30:34"
@@ -4202,4 +4204,3 @@
 "atento-fdi.plusoftomni.com.br","PhishingToday feed","2022-03-29 02:50:25"
 "algotextil.com.br","PhishingToday feed","2022-03-29 02:50:24"
 "3adistribuidora.com.br","PhishingToday feed","2022-03-29 02:50:23"
-"dpaulafoods.com.br","ThreatFox IOCs for 2022-03-29","2022-03-28 22:46:34"
