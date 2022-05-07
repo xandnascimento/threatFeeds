@@ -4024,4 +4024,3 @@
 "alfashooter.com.br","PhishingToday feed","2022-04-07 02:50:28"
 "algotextil.com.br","PhishingToday feed","2022-04-07 02:50:28"
 "3adistribuidora.com.br","PhishingToday feed","2022-04-07 02:50:26"
-"tt.ruppersalimentos.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-06 15:40:04"
