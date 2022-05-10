@@ -1,6 +1,0 @@
-"104.26.0.100","ip-dst"
-"193.233.48.64","ip-dst"
-"a01ba6c583bd0b9bc3057d17ddd8b7e14d60b307","sha1"
-"b27e21cdb854ac56e4bd8d9ba81c9b7eaecc4fdd8874ac115e228728de793ddd","sha256"
-"fe49e3f4830c9fcb050ab396631181de","md5"
-"http://193.233.48.64/build_o.exe","url"
