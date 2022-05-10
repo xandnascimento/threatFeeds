@@ -1,3 +1,4 @@
+"sedsoft.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-05-09 15:40:03"
 "http://sedsoft.com.br","MalwarePatrol Mozilla AdBlock feed","2022-05-09 04:40:11"
 "www.sicoob.larepet.com.br","CertStream feed","2022-05-09 02:55:02"
 "*.com.br.sejadigitalinterativo.com.br","CertStream feed","2022-05-09 02:55:02"
@@ -4089,5 +4090,3 @@
 "alfashooter.com.br","PhishingToday feed","2022-04-10 02:50:34"
 "algotextil.com.br","PhishingToday feed","2022-04-10 02:50:34"
 "3adistribuidora.com.br","PhishingToday feed","2022-04-10 02:50:32"
-"www.chocopan.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-09 15:40:04"
-"ts.ruppersalimentos.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-09 15:40:03"
