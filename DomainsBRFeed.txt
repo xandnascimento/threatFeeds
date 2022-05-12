@@ -4063,4 +4063,3 @@
 "algotextil.com.br","PhishingToday feed","2022-04-12 02:50:26"
 "3adistribuidora.com.br","PhishingToday feed","2022-04-12 02:50:24"
 "https://megaferroba.com.br","PhishingToday feed","2022-04-12 02:50:05"
-"www.itau.com.br","Cuckoo Sandbox analysis #31184","2022-04-11 19:29:13"
