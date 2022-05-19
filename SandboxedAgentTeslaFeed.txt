@@ -1,0 +1,7 @@
+"3763dee44e0fc9f40d3588a83febe375ede8de3151162ddcba8ad834819752bc","sha256"
+"50a6ad62f52437b8f59e0ed7d88a17ef658fee41","sha1"
+"dec4f46b7a896f506af32403959e074c","md5"
+"http://x1.i.lencr.org/","url"
+"https://tiny.one/3vmu7fmr","url"
+"memorial.asvp.org.br","domain|ip"
+"tiny.one","domain|ip"
