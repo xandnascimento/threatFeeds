@@ -1,3 +1,4 @@
+"dj.ruppersalimentos.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-05-21 15:40:02"
 "http://dj.ruppersalimentos.com.br","MalwarePatrol Mozilla AdBlock feed","2022-05-21 04:40:11"
 "www.atualiza.acisjb.com.br","CertStream feed","2022-05-21 02:55:02"
 "consorciosintervel.com.br","CertStream feed","2022-05-21 02:55:02"
@@ -4279,5 +4280,3 @@
 "algotextil.com.br","PhishingToday feed","2022-04-22 02:50:26"
 "2022-upgrade-server.pvsolar.com.br","PhishingToday feed","2022-04-22 02:50:24"
 "3adistribuidora.com.br","PhishingToday feed","2022-04-22 02:50:24"
-"www.router.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-21 15:40:06"
-"phibrotec-homologacao.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-21 15:40:05"
