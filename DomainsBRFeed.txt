@@ -4317,5 +4317,3 @@
 "3adistribuidora.com.br","PhishingToday feed","2022-04-28 02:50:36"
 "https://support.wladimirpomar.com.br","PhishingToday feed","2022-04-28 02:50:20"
 "https://www.support.wladimirpomar.com.br","PhishingToday feed","2022-04-28 02:50:07"
-"www.camap.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-27 15:40:04"
-"www.gruporaizes.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-04-27 15:40:04"
