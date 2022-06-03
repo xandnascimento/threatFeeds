@@ -13,3 +13,4 @@
 "ebbc914728204ac9e6cacd041c35e016e8c1bcb6","sha1"
 "edb6259ebe539272e3347734fe3b24ce","md5"
 "ef25e8102cdf23f1f46a052683cc781cf4cbbe69b6dc744d3b0e88c9e088c673","sha256"
+"t.nxxxn.ga","domain|ip"

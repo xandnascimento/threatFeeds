@@ -1,3 +1,4 @@
+"memorial.asvp.org.br","Cuckoo Sandbox analysis #2935","2022-06-02 19:34:19"
 "www.clinica.alessandrasmaczylo.com.br","CertStream feed","2022-06-02 02:55:06"
 "www.cadastro.papodejunta.com.br","CertStream feed","2022-06-02 02:55:06"
 "www.cadastro.redecasting.com.br","CertStream feed","2022-06-02 02:55:05"
@@ -302,6 +303,7 @@
 "anapolisemprego.com.br","PhishingToday feed","2022-06-01 02:50:08"
 "atento-fdi.plusoftomni.com.br","PhishingToday feed","2022-06-01 02:50:08"
 "bancaporlnternetlnterbarnk.libertycanais.com.br","PhishingToday feed","2022-06-01 02:50:08"
+"vivercomoafiliado.com.br","DigitalSide Malware report: MD5: a02e7dae0d49481bea77980b65c932ac","2022-05-31 19:25:03"
 "www.cadastro.artedacrianca.com.br","CertStream feed","2022-05-31 02:55:01"
 "www.irpf.ceocontab.com.br","CertStream feed","2022-05-31 02:55:01"
 "www.atendimento.bubblespets.com.br","CertStream feed","2022-05-31 02:55:01"
@@ -4382,4 +4384,3 @@
 "algotextil.com.br","PhishingToday feed","2022-05-04 02:51:22"
 "3adistribuidora.com.br","PhishingToday feed","2022-05-04 02:51:18"
 "https://areaclienteacessopolo.com.br","PhishingToday feed","2022-05-04 02:50:50"
-"joseantoniorosso.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-05-03 15:40:04"
