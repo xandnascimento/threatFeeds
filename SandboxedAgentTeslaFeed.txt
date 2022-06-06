@@ -250,6 +250,7 @@
 "https://update.googleapis.com/service/update2?cup2key=10:1328719415&cup2hreq=058d667851e86c8c1603a77e864ea73eb0046e398af6cb4b8b54246e7f32fbc6","url"
 "https://update.googleapis.com/service/update2?cup2key=10:1700641831&cup2hreq=b2c05ba48c1003fb0a4bd9392c93e0a9a7ca7c966f0d04e291cd32cba1b98b63","url"
 "https://update.googleapis.com/service/update2?cup2key=10:2336918955&cup2hreq=1b631bfa8acd4e088e291a8f5e8f3d7cb6eddb275a7556219ae351dd9a552ed5","url"
+"https://update.googleapis.com/service/update2?cup2key=10:3034038514&cup2hreq=9b4f22f30fecb99391111a031c03f3beba8b8e412acfbcded38989ef52de91ca","url"
 "https://update.googleapis.com/service/update2?cup2key=10:665849385&cup2hreq=1ee285a326c1e400683133ca2ba7b34cdc68c0eb1209fe4910dad80af1fea43e","url"
 "https://update.googleapis.com/service/update2?cup2key=10:851432413&cup2hreq=6cecc57a484cfdac6011bb3dfd51b2792378c3e840ef18ded5f86c74f24b36ba","url"
 "kabos.xyz","domain|ip"
