@@ -518,6 +518,8 @@
 "http://140.82.52.55/","url"
 "http://140.82.52.55/44ab09bc752a11997c9a47d62e3f9f67","url"
 "http://140.82.52.55/4ddbfaa1da3986f0404bf7fe10cfe2e6","url"
+"http://140.82.52.55/56fb27ff23ffc556447d575c6b8530c4","url"
+"http://140.82.52.55/600389261fbca318a293197c7cb0e009","url"
 "http://140.82.52.55/6d1bc6c24a73a903c6b6b1e2c041b040","url"
 "http://140.82.52.55/b2c7797014cd870ba8e2491ec99383af","url"
 "http://185.215.113.89/azne.exe","url"
