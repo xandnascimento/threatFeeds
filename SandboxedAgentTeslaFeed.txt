@@ -152,6 +152,7 @@
 "a8a8a6086db64012d1142e357648c5f7","md5"
 "a8cb60ee277e259301ee46898b7bba3bba26ab6a","sha1"
 "api.ip.sb","domain|ip"
+"api.telegram.org","domain|ip"
 "b100899041d0fab7bd543c5508a2194a7f0efba3","sha1"
 "b7acca3a35041b58b2b2a97b7798af44","md5"
 "b8032837f8810d4139a95eeb3c937829","md5"
