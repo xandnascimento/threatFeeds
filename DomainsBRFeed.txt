@@ -212,6 +212,7 @@
 "http://eheroapp.feibanana.com.br","PhishingToday feed","2022-06-08 02:50:06"
 "memorial.asvp.org.br","Cuckoo Sandbox analysis #4952","2022-06-07 22:29:37"
 "memorial.asvp.org.br","Cuckoo Sandbox analysis #4953","2022-06-07 22:28:55"
+"moveisplanejados.art.br","DigitalSide Malware report: MD5: 8a06a093a6bf49253af7ec627acea0ab","2022-06-07 08:24:04"
 "analandia.fatura.calculo.gestaosaneamentoweb.com.br","CertStream feed","2022-06-07 02:55:02"
 "analandia.fatura.faturamento.gestaosaneamentoweb.com.br","CertStream feed","2022-06-07 02:55:02"
 "analandia.fatura.gestaosaneamentoweb.com.br","CertStream feed","2022-06-07 02:55:02"
@@ -4552,4 +4553,3 @@
 "http://vi.tec.br","PhishingToday feed","2022-05-10 02:50:03"
 "http://facebokmessengercom.blogspot.com.br","PhishingToday feed","2022-05-10 02:50:02"
 "https://www.mijncardcontrole.jornalrn.com.br","PhishingToday feed","2022-05-10 02:50:02"
-"sedsoft.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-05-09 15:40:03"
